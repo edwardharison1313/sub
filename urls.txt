@@ -1,4 +1,4 @@
-#profile-title: ♾️ Akram ♾️
+#profile-title: Akram
 #profile-update-interval: 12
 #subscription-userinfo: upload=0; download=0; expire=4102444800
 #support-url: https://t.me/akram
