@@ -1,6 +1,6 @@
 #profile-title: ♾️ Akram ♾️
 #profile-update-interval: 12
-#subscription-userinfo: upload=0; download=0; total=9999999999999; expire=4102444800
+#subscription-userinfo: upload=0; download=0; expire=4102444800
 #support-url: https://t.me/akram
 #profile-web-page-url: https://github.com/edwardharison1313/sub
 
