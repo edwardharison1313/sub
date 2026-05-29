@@ -1,4 +1,4 @@
-#profile-title: ⚡Alirezaaa⚡
+#profile-title: ⚡Alireza⚡
 #profile-update-interval: 12
 
 # ===== MAIN SERVERS =====
