@@ -1,6 +1,6 @@
 #profile-title: ⚡Alireza⚡
 #profile-update-interval: 12
-#subscription-userinfo: upload=0; download=0; total=0; expire=4102444800
+#subscription-userinfo: upload=0; download=0; total=109951162777600; expire=4102444800
 
 # ===== MAIN SERVERS =====
 
