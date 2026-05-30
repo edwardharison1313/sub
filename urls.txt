@@ -4,36 +4,72 @@
 
 # ===== MAIN SERVERS =====
 
-vless://aeec50e6-f176-4f87-9f46-0610a0e76435@104.19.208.184:8443?type=ws&encryption=none&path=%2FRoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=interim.adaspoloandco.com&allowInsecure=0#🇫🇮%20KH-FI-01
-vless://aeec50e6-f176-4f87-9f46-0610a0e76435@104.19.64.105:8443?type=ws&encryption=none&path=%2FRoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=interim.adaspoloandco.com&allowInsecure=0#🇫🇮%20KH-FI-02
-vless://aeec50e6-f176-4f87-9f46-0610a0e76435@162.159.253.41:8443?type=ws&encryption=none&path=%2FRoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=interim.adaspoloandco.com&allowInsecure=0#🇫🇮%20KH-FI-03
-vless://aeec50e6-f176-4f87-9f46-0610a0e76435@104.26.6.159:8443?type=ws&encryption=none&path=%2FRoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=interim.adaspoloandco.com&allowInsecure=0#🇫🇮%20KH-FI-04
-vless://aeec50e6-f176-4f87-9f46-0610a0e76435@172.64.155.209:8443?type=ws&encryption=none&path=%2FRoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=interim.adaspoloandco.com&allowInsecure=0#🇫🇮%20KH-FI-05
-vless://aeec50e6-f176-4f87-9f46-0610a0e76435@141.101.115.71:8443?type=ws&encryption=none&path=%2FRoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=interim.adaspoloandco.com&allowInsecure=0#🇫🇮%20KH-FI-06
-vless://aeec50e6-f176-4f87-9f46-0610a0e76435@188.114.99.160:8443?type=ws&encryption=none&path=%2FRoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=interim.adaspoloandco.com&allowInsecure=0#🇫🇮%20KH-FI-07
-vless://aeec50e6-f176-4f87-9f46-0610a0e76435@173.245.59.191:8443?type=ws&encryption=none&path=%2FRoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=interim.adaspoloandco.com&allowInsecure=0#🇫🇮%20KH-FI-08
+vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.19.208.184:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=%2FRoBeRt#🇫🇮%20KH-FI-01
 
-vless://4f58635f-e25b-40a8-b6be-0b8a13acab22@104.19.64.105:2087?type=ws&encryption=none&path=%2FGOrbEh&host=rubifen.robertoroberta.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&sni=rubifen.robertoroberta.com&allowInsecure=0#🇩🇪%20KH-DE-01
-vless://4f58635f-e25b-40a8-b6be-0b8a13acab22@162.159.253.41:2087?type=ws&encryption=none&path=%2FGOrbEh&host=rubifen.robertoroberta.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&sni=rubifen.robertoroberta.com&allowInsecure=0#🇩🇪%20KH-DE-02
+vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.19.64.105:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=%2FRoBeRt#🇫🇮%20KH-FI-02
 
-vless://5f675eea-a53b-40ae-beb6-ee304a389f3e@104.19.64.105:8443?type=ws&encryption=none&path=%2FArEyOuMaD&host=amphetamine.robertoroberta.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=amphetamine.robertoroberta.com&allowInsecure=0#🇫🇮%20KH-AMP
+vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@162.159.253.41:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=%2FRoBeRt#🇫🇮%20KH-FI-03
 
-vless://bf116897-eca4-459c-9f97-4019fa0ace7f@104.19.64.105:8443?type=ws&encryption=none&path=%2FRizZrAcK&host=focalin.robertoroberta.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=focalin.robertoroberta.com&allowInsecure=0#🇫🇮%20KH-FOC-01
-vless://bf116897-eca4-459c-9f97-4019fa0ace7f@162.159.253.41:8443?type=ws&encryption=none&path=%2FRizZrAcK&host=focalin.robertoroberta.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=focalin.robertoroberta.com&allowInsecure=0#🇫🇮%20KH-FOC-02
+vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.26.6.159:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=%2FRoBeRt#🇫🇮%20KH-FI-04
 
-vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@104.19.64.105:8443?type=ws&encryption=none&path=%2Fdownload.php&host=chopin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=chopin.adaspoloandco.com&allowInsecure=false#🇵🇱%20KH-PL-01
-vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@162.159.253.41:8443?type=ws&encryption=none&path=%2Fdownload.php&host=chopin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=chopin.adaspoloandco.com&allowInsecure=false#🇵🇱%20KH-PL-02
-vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@141.101.115.71:8443?type=ws&encryption=none&path=%2Fdownload.php&host=chopin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=chopin.adaspoloandco.com&allowInsecure=false#🇵🇱%20KH-PL-03
+vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.19.64.105:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=%2FRoBeRt#🇫🇮%20KH-FI-05
 
-vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@162.159.253.41:8443?type=ws&encryption=none&path=%2Fuploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=maple.adaspoloandco.com&allowInsecure=false#🇨🇦%20KH-CA-01
-vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@172.64.155.209:8443?type=ws&encryption=none&path=%2Fuploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=maple.adaspoloandco.com&allowInsecure=false#🇨🇦%20KH-CA-02
-vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@141.101.115.71:8443?type=ws&encryption=none&path=%2Fuploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=maple.adaspoloandco.com&allowInsecure=false#🇨🇦%20KH-CA-03
-vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@188.114.99.160:8443?type=ws&encryption=none&path=%2Fuploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=maple.adaspoloandco.com&allowInsecure=false#🇨🇦%20KH-CA-04
+vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@172.64.155.209:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=%2FRoBeRt#🇫🇮%20KH-FI-06
 
-vless://be5851ff-9af5-45ea-b874-a0a035714114@104.19.208.184:8443?type=ws&encryption=none&path=%2Fadmin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ratatouille.adaspoloandco.com&allowInsecure=false#🇫🇷%20KH-FR-01
-vless://be5851ff-9af5-45ea-b874-a0a035714114@162.159.253.41:8443?type=ws&encryption=none&path=%2Fadmin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ratatouille.adaspoloandco.com&allowInsecure=false#🇫🇷%20KH-FR-02
-vless://be5851ff-9af5-45ea-b874-a0a035714114@104.19.64.105:8443?type=ws&encryption=none&path=%2Fadmin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ratatouille.adaspoloandco.com&allowInsecure=false#🇫🇷%20KH-FR-03
-vless://be5851ff-9af5-45ea-b874-a0a035714114@104.27.66.214:8443?type=ws&encryption=none&path=%2Fadmin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ratatouille.adaspoloandco.com&allowInsecure=false#🇫🇷%20KH-FR-04
+vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@141.101.115.71:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=%2FRoBeRt#🇫🇮%20KH-FI-07
+
+vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@188.114.99.160:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=%2FRoBeRt#🇫🇮%20KH-FI-08
+
+vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@173.245.59.191:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=%2FRoBeRt#🇫🇮%20KH-FI-09
+
+vless://4f58635f-e25b-40a8-b6be-0b8a13acab22@104.19.64.105:2087?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#🇩🇪%20KH-DE-01
+
+vless://4f58635f-e25b-40a8-b6be-0b8a13acab22@162.159.253.41:2087?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#🇩🇪%20KH-DE-02
+
+vless://5f675eea-a53b-40ae-beb6-ee304a389f3e@104.19.64.105:8443?encryption=none&security=tls&sni=amphetamine.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=amphetamine.adaspoloandco.com&path=%2FArEyOuMaD#🇫🇮%20KH-AMP-01
+
+vless://5f675eea-a53b-40ae-beb6-ee304a389f3e@104.19.64.105:8443?encryption=none&security=tls&sni=amphetamine.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=amphetamine.adaspoloandco.com&path=%2FArEyOuMaD#🇫🇮%20KH-AMP-02
+
+vless://5f675eea-a53b-40ae-beb6-ee304a389f3e@172.64.155.209:8443?encryption=none&security=tls&sni=amphetamine.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=amphetamine.adaspoloandco.com&path=%2FArEyOuMaD#🇫🇮%20KH-AMP-03
+
+vless://5f675eea-a53b-40ae-beb6-ee304a389f3e@141.101.115.71:8443?encryption=none&security=tls&sni=amphetamine.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=amphetamine.adaspoloandco.com&path=%2FArEyOuMaD#🇫🇮%20KH-AMP-04
+
+vless://bf116897-eca4-459c-9f97-4019fa0ace7f@104.19.64.105:8443?encryption=none&security=tls&sni=focalin.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=focalin.adaspoloandco.com&path=%2FRizZrAcK#🇫🇮%20KH-FOC-01
+
+vless://bf116897-eca4-459c-9f97-4019fa0ace7f@162.159.253.41:8443?encryption=none&security=tls&sni=focalin.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=focalin.adaspoloandco.com&path=%2FRizZrAcK#🇫🇮%20KH-FOC-02
+
+
+vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@104.19.64.105:8443?encryption=none&security=tls&sni=chopin.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=chopin.adaspoloandco.com&path=%2Fdownload.php#🇵🇱%20KH-PL-01
+
+vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@162.159.253.41:8443?encryption=none&security=tls&sni=chopin.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=chopin.adaspoloandco.com&path=%2Fdownload.php#🇵🇱%20KH-PL-02
+
+vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@104.19.64.105:8443?encryption=none&security=tls&sni=chopin.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=chopin.adaspoloandco.com&path=%2Fdownload.php#🇵🇱%20KH-PL-03
+
+vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@141.101.115.71:8443?encryption=none&security=tls&sni=chopin.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=chopin.adaspoloandco.com&path=%2Fdownload.php#🇵🇱%20KH-PL-04
+
+vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@104.27.66.214:8443?encryption=none&security=tls&sni=chopin.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=chopin.adaspoloandco.com&path=%2Fdownload.php#🇵🇱%20KH-PL-05
+
+vless://e8c61352-444f-4154-ba34-9d3141154a8d@162.159.253.41:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=maple.adaspoloandco.com&path=%2Fuploader.php#🇨🇦%20KH-CA-01
+
+vless://e8c61352-444f-4154-ba34-9d3141154a8d@172.64.155.209:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=maple.adaspoloandco.com&path=%2Fuploader.php#🇨🇦%20KH-CA-02
+
+vless://e8c61352-444f-4154-ba34-9d3141154a8d@141.101.115.71:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=maple.adaspoloandco.com&path=%2Fuploader.php#🇨🇦%20KH-CA-03
+
+vless://e8c61352-444f-4154-ba34-9d3141154a8d@188.114.99.160:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=maple.adaspoloandco.com&path=%2Fuploader.php#🇨🇦%20KH-CA-04
+
+vless://e8c61352-444f-4154-ba34-9d3141154a8d@173.245.59.191:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=maple.adaspoloandco.com&path=%2Fuploader.php#🇨🇦%20KH-CA-05
+
+vless://a47c49ec-6eaa-44ce-9108-8427426a1123@104.19.208.184:8443?encryption=none&security=tls&sni=ratatouille.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php#🇫🇷%20KH-FR-01
+
+vless://a47c49ec-6eaa-44ce-9108-8427426a1123@162.159.253.41:8443?encryption=none&security=tls&sni=ratatouille.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php#🇫🇷%20KH-FR-02
+
+vless://a47c49ec-6eaa-44ce-9108-8427426a1123@104.19.64.105:8443?encryption=none&security=tls&sni=ratatouille.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php#🇫🇷%20KH-FR-03
+
+vless://a47c49ec-6eaa-44ce-9108-8427426a1123@104.27.66.214:8443?encryption=none&security=tls&sni=ratatouille.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php#🇫🇷%20KH-FR-04
+
+vless://a47c49ec-6eaa-44ce-9108-8427426a1123@172.67.74.10:8443?encryption=none&security=tls&sni=ratatouille.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php#🇫🇷%20KH-FR-05
+
+vless://c4916121-ce5e-460c-9627-bcec80f0f182@198.41.208.99:443?encryption=none&security=tls&sni=baguette.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=baguette.adaspoloandco.com&path=%2Fmarketplace#🇫🇷%20KH-FR-06
 
 # ===== BPB =====
 
@@ -55,42 +91,23 @@ vless://709d8812-1801-480d-8f57-b02a607cb5e7@yg1.ygkkk.dpdns.org:8880?encryption
 
 # ===== MF =====
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.16.41.203:443?encryption=none&security=tls&sni=usa.matsurify341.ir&insecure=0&allowInsecure=0&type=ws&host=tr.matsurify341.ir&path=%2F#🇹🇷%20MF-TR-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@snapp.ir:8880?encryption=none&security=none&type=ws&host=paris.matsurify.ir&path=%2F#🇫🇷%20MF-FR-TCDN-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.21.64.93:443?encryption=none&security=tls&sni=usa.matsurify341.ir&insecure=0&allowInsecure=0&type=ws&host=usa.matsurify341.ir&path=%2F#🇺🇸%20MF-US-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@snapp.ir:8880?encryption=none&security=none&type=ws&host=tr.matsurify.ir&path=%2F#🇹🇷%20MF-TR-TCDN-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.19.146.234:443?encryption=none&security=tls&sni=london.matsurify341.ir&insecure=0&allowInsecure=0&type=ws&host=london.matsurify341.ir&path=%2F#🇬🇧%20MF-UK-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@188.114.98.0:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tr.matsurify341.ir&path=%2F#🇹🇷%20MF-TR-CF-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@162.159.22.49:443?encryption=none&security=tls&sni=test.matsurify341.ir&insecure=0&allowInsecure=0&type=ws&host=test.matsurify341.ir&path=%2F#🇫🇷%20MF-FR-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.18.12.149:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=usa.matsurify341.ir&path=%2F#🇺🇸%20MF-US-CF-01
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@chatgpt.com:443?encryption=none&security=tls&sni=london.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=london.matsurify341.ir&path=%2F#🇬🇧%20MF-UK-CF-01
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@162.159.140.99:443?encryption=none&security=tls&sni=test.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=test.matsurify341.ir&path=%2F#🇫🇷%20MF-FR-CF-01
 
 vless://965bd133-2090-4367-9b0e-c1c99a849d3e@89.208.113.71:8880?encryption=none&security=none&type=ws&path=%2F#🇫🇷%20MF-FR-DIR-01
 
 vless://965bd133-2090-4367-9b0e-c1c99a849d3e@83.217.9.225:8880?encryption=none&security=none&type=ws&path=%2F#🇹🇷%20MF-TR-DIR-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.19.131.173:443?encryption=none&security=tls&sni=netherland.matsurify341.ir&insecure=0&allowInsecure=0&type=ws&host=netherland.matsurify341.ir&path=%2F#🇳🇱%20MF-NL-01
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.18.13.46:443?encryption=none&security=tls&sni=usa.matsurify341.ir&insecure=0&allowInsecure=0&type=ws&host=usa.matsurify341.ir&path=%2F#🇺🇸%20MF-US-02
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@162.159.5.254:443?encryption=none&security=tls&sni=london.matsurify341.ir&insecure=0&allowInsecure=0&type=ws&host=london.matsurify341.ir&path=%2F#🇬🇧%20MF-UK-02
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@198.41.208.207:443?encryption=none&security=tls&sni=test.matsurify341.ir&insecure=0&allowInsecure=0&type=ws&host=test.matsurify341.ir&path=%2F#🇫🇷%20MF-FR-02
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@5.161.94.84:8880?encryption=none&security=none&type=ws&path=%2F#🇺🇸%20MF-US-DIR-01
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@46.226.162.26:8880?encryption=none&security=none&type=ws&path=%2F#🇬🇧%20MF-UK-DIR-01
-
-
-# ===== CFX =====
-
-vless://61beb227-5709-4999-851d-fe87d2859c56@141.101.115.71:2083?encryption=none&type=xhttp&mode=packet-up&host=chopin.wikimatn.ir&path=/jvbdfb1sd&security=tls&fp=chrome&sni=chopin.wikimatn.ir&alpn=h2&ech=https://8.8.8.8/dns-query&allowInsecure=false#🚀%20KH-CFX-01
-vless://36f00530-bbbd-4a59-bd67-a3269152c379@188.114.99.160:2083?encryption=none&type=xhttp&mode=packet-up&host=maple.wikimatn.ir&path=/ktbrKMKH&security=tls&fp=chrome&sni=maple.wikimatn.ir&alpn=h2&ech=https://8.8.8.8/dns-query&allowInsecure=false#🚀%20KH-CFX-02
-vless://1113c817-f832-4d0d-99d9-382ccd459d33@188.114.99.160:2083?encryption=none&type=xhttp&mode=packet-up&host=ratatouille.wikimatn.ir&path=/EUIhdjc12&security=tls&fp=chrome&sni=ratatouille.wikimatn.ir&alpn=h2&ech=https://8.8.8.8/dns-query&allowInsecure=false#🚀%20KH-CFX-03
-vless://80d3314d-91d4-404b-916f-e29b25036436@108.162.193.173:2083?type=xhttp&encryption=none&path=%2Fapi&host=baguette.wikimatn.ir&mode=packet-up&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=baguette.wikimatn.ir&ech=https://8.8.8.8/dns-query&allowInsecure=false#🚀%20KH-CFX-04
-vless://9f5ba11c-7175-4aa6-95a4-4f75c912a6c0@173.245.59.191:2087?type=xhttp&encryption=none&path=%2Fmarketplace&host=adderall.wikimatn.ir&mode=auto&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=adderall.wikimatn.ir&ech=https://8.8.8.8/dns-query&allowInsecure=false#🚀%20KH-CFX-05
-
-# ===== FASTLY =====
-
-vless://a905ece5-c1c0-4472-a096-618d0e64aaab@151.101.1.242:443?encryption=none&type=xhttp&mode=auto&host=maple.mafoolehamammansouri.com&path=/gorbeh&security=tls&fp=chrome&sni=maple.mafoolehamammansouri.com&alpn=h2#⚡%20KH-FASTLY-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.19.131.173:443?encryption=none&security=tls&sni=netherland.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=netherland.matsurify341.ir&path=%2F#🇳🇱%20MF-NL-CF-01
 
 
 
