@@ -1,6 +1,6 @@
-#profile-title: ⚡Akram⚡
+#profile-title: ⚡Akram
+#profile-description: ♾️ Akram Private Network | FI • PL • CA • FR • DE | VLESS • HY2 | Updated Every 12H
 #profile-update-interval: 12
-#description: ♾️ Akram Private Network | FI • PL • CA • FR • DE | VLESS • HY2 | Updated Every 12H
 #subscription-userinfo: upload=0; download=0; total=1073741824000; expire=4102444800
 
 # ===== MAIN SERVERS =====
