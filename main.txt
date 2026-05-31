@@ -1,0 +1,88 @@
+#profile-title: ⚡Main⚡
+#profile-update-interval: 12
+#subscription-userinfo: upload=0; download=0; total=1073741824000; expire=4102444800
+
+# ===== MAIN SERVERS =====
+
+vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.19.208.184:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=%2FRoBeRt#🇫🇮%20KH-FI-01
+
+vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@162.159.253.41:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=%2FRoBeRt#🇫🇮%20KH-FI-03
+
+vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@172.64.155.209:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=%2FRoBeRt#🇫🇮%20KH-FI-06
+
+vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@188.114.99.160:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=%2FRoBeRt#🇫🇮%20KH-FI-08
+
+vless://e6682a34-0875-41f9-88a3-6fe01abe09f8@172.67.74.10:443?encryption=none&security=tls&sni=sertraline.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=sertraline.adaspoloandco.com&path=%2Fdownload.php#🇫🇮%20KH-FI-SER-10
+
+vless://e6682a34-0875-41f9-88a3-6fe01abe09f8@198.41.208.99:443?encryption=none&security=tls&sni=sertraline.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=sertraline.adaspoloandco.com&path=%2Fdownload.php#🇫🇮%20KH-FI-SER-11
+
+vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@104.19.64.105:8443?encryption=none&security=tls&sni=chopin.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=chopin.adaspoloandco.com&path=%2Fdownload.php#🇵🇱%20KH-PL-01
+
+vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@141.101.115.71:8443?encryption=none&security=tls&sni=chopin.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=chopin.adaspoloandco.com&path=%2Fdownload.php#🇵🇱%20KH-PL-04
+
+vless://e8c61352-444f-4154-ba34-9d3141154a8d@162.159.253.41:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=maple.adaspoloandco.com&path=%2Fuploader.php#🇨🇦%20KH-CA-01
+
+vless://e8c61352-444f-4154-ba34-9d3141154a8d@141.101.115.71:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=maple.adaspoloandco.com&path=%2Fuploader.php#🇨🇦%20KH-CA-03
+
+vless://a47c49ec-6eaa-44ce-9108-8427426a1123@104.19.208.184:8443?encryption=none&security=tls&sni=ratatouille.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php#🇫🇷%20KH-FR-01
+
+vless://a47c49ec-6eaa-44ce-9108-8427426a1123@104.19.64.105:8443?encryption=none&security=tls&sni=ratatouille.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php#🇫🇷%20KH-FR-03
+
+vless://c4916121-ce5e-460c-9627-bcec80f0f182@198.41.208.99:443?encryption=none&security=tls&sni=baguette.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=baguette.adaspoloandco.com&path=%2Fmarketplace#🇫🇷%20KH-FR-06
+
+vless://4f58635f-e25b-40a8-b6be-0b8a13acab22@104.19.64.105:2087?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#🇩🇪%20KH-DE-01
+
+# ===== BPB =====
+
+vless://4d5baffc-9e9f-4f1a-b7f1-c5ddaa273dbb@curly-tooth-79ea.yamanetwork.workers.dev:443?type=ws&encryption=none&path=%2FeyJqdW5rIjoiQWo2Wlo0NEkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560&host=curly-tooth-79ea.yamanetwork.workers.dev&security=tls&fp=chrome&alpn=http%2F1.1&sni=CurlY-TooTh-79ea.yaMANETWOrk.WOrKErs.Dev&allowInsecure=0#🧩%20BPB-VLESS-01
+
+vless://4d5baffc-9e9f-4f1a-b7f1-c5ddaa273dbb@www.speedtest.net:443?type=ws&encryption=none&path=%2FeyJqdW5rIjoiV2V1NmV1cEl6UmkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560&host=curly-tooth-79ea.yamanetwork.workers.dev&security=tls&fp=chrome&alpn=http%2F1.1&sni=cUrLy-tOoTH-79Ea.yaMANeTwOrK.woRkerS.DEv&allowInsecure=0#🧩%20BPB-VLESS-02
+
+vless://4d5baffc-9e9f-4f1a-b7f1-c5ddaa273dbb@188.114.97.3:443?type=ws&encryption=none&path=%2FeyJqdW5rIjoiZkpIZkFNV0ZValVHWnIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560&host=curly-tooth-79ea.yamanetwork.workers.dev&security=tls&fp=chrome&alpn=http%2F1.1&sni=CURly-toOtH-79ea.yamANEtwoRk.WorkErS.dEV&allowInsecure=0#🧩%20BPB-IPv4-01
+
+vless://4d5baffc-9e9f-4f1a-b7f1-c5ddaa273dbb@188.114.96.3:443?type=ws&encryption=none&path=%2FeyJqdW5rIjoiemtQVVAzWjgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560&host=curly-tooth-79ea.yamanetwork.workers.dev&security=tls&fp=chrome&alpn=http%2F1.1&sni=cuRlY-TOoth-79eA.YamaNETWorK.wOrKErS.DEv&allowInsecure=0#🧩%20BPB-IPv4-02
+
+
+# ===== YONGGEKKK =====
+
+vless://709d8812-1801-480d-8f57-b02a607cb5e7@yg1.ygkkk.dpdns.org:8443?encryption=none&security=tls&sni=shiny-frost-9d81.edwardharison1313.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=shiny-frost-9d81.edwardharison1313.workers.dev&path=%2F%3Fed%3D2560#🦄%20YONGGEKKK-TLS-01
+
+vless://709d8812-1801-480d-8f57-b02a607cb5e7@yg1.ygkkk.dpdns.org:8880?encryption=none&security=none&type=ws&host=shiny-frost-9d81.edwardharison1313.workers.dev&path=%2F%3Fed%3D2560#🦄%20YONGGEKKK-NTLS-01
+
+
+# ===== MF =====
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@snapp.ir:8880?encryption=none&security=none&type=ws&host=paris.matsurify.ir&path=%2F#🇫🇷%20MF-FR-TCDN-01
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@snapp.ir:8880?encryption=none&security=none&type=ws&host=tr.matsurify.ir&path=%2F#🇹🇷%20MF-TR-TCDN-01
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@188.114.98.0:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tr.matsurify341.ir&path=%2F#🇹🇷%20MF-TR-CF-01
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.18.12.149:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=usa.matsurify341.ir&path=%2F#🇺🇸%20MF-US-CF-01
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@chatgpt.com:443?encryption=none&security=tls&sni=london.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=london.matsurify341.ir&path=%2F#🇬🇧%20MF-UK-CF-01
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@162.159.140.99:443?encryption=none&security=tls&sni=test.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=test.matsurify341.ir&path=%2F#🇫🇷%20MF-FR-CF-01
+
+# ===== ZI =====
+
+vless://e087904a-c494-4d26-b71d-8af1174c53e5@www.speedtest.net:443?encryption=none&security=tls&sni=cdn-pro1.postshup.ir.&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=cdn-pro1.postshup.ir.&path=%2Fnews#🇫🇮 ZI-CDN-FI-01-PREMIUM
+
+vless://e087904a-c494-4d26-b71d-8af1174c53e5@fbi.gov:443?encryption=none&security=tls&sni=cdn-pro2.postshup.ir.&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=cdn-pro2.postshup.ir.&path=%2Fnews#🇩🇪 ZI-CDN-DE-01-PREMIUM
+
+vless://e087904a-c494-4d26-b71d-8af1174c53e5@45.80.111.1:443?encryption=none&security=tls&sni=cdn-pro2.postshup.ir.&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=cdn-pro2.postshup.ir.&path=%2Fnews#🇩🇪 ZI-CDN-DE-02-PREMIUM
+
+vless://e087904a-c494-4d26-b71d-8af1174c53e5@openai.com:443?encryption=none&security=tls&sni=cdn-pro3.postshup.ir.&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=cdn-pro3.postshup.ir.&path=%2Fnews#🇩🇪 ZI-CDN-DE-03-PREMIUM
+
+vless://e087904a-c494-4d26-b71d-8af1174c53e5@fbi.gov:443?encryption=none&security=tls&sni=cdn-pro4.postshup.ir.&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=cdn-pro4.postshup.ir.&path=%2Fnews#🇩🇪 ZI-CDN-DE-04-PREMIUM
+
+vless://e087904a-c494-4d26-b71d-8af1174c53e5@188.114.98.0:443?encryption=none&security=tls&sni=cdn-pro5.postshup.ir.&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=cdn-pro5.postshup.ir.&path=%2Fnews#🇩🇪 ZI-CDN-DE-05-PREMIUM
+
+
+# ===== MS =====
+
+hysteria2://Masir_Sefid@18.196.180.90:443?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪%20MS-DE-HY2-UDP
+
+hysteria2://Masir_Sefid@18.196.180.90:8880?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪%20MS-DE-HY2-UDP
+
+hysteria2://Masir_Sefid@18.196.180.90:54040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪%20MS-DE-HY2-UDP
