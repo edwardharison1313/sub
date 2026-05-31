@@ -12,8 +12,6 @@ vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@172.64.155.209:8443?encryption=none
 
 vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@188.114.99.160:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=%2FRoBeRt#🇫🇮%20KH-FI-08
 
-vless://4f58635f-e25b-40a8-b6be-0b8a13acab22@104.19.64.105:2087?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#🇩🇪%20KH-DE-01
-
 vless://5f675eea-a53b-40ae-beb6-ee304a389f3e@104.19.64.105:8443?encryption=none&security=tls&sni=amphetamine.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=amphetamine.adaspoloandco.com&path=%2FArEyOuMaD#🇫🇮%20KH-AMP-01
 
 vless://5f675eea-a53b-40ae-beb6-ee304a389f3e@172.64.155.209:8443?encryption=none&security=tls&sni=amphetamine.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=amphetamine.adaspoloandco.com&path=%2FArEyOuMaD#🇫🇮%20KH-AMP-03
@@ -33,6 +31,8 @@ vless://a47c49ec-6eaa-44ce-9108-8427426a1123@104.19.208.184:8443?encryption=none
 vless://a47c49ec-6eaa-44ce-9108-8427426a1123@104.19.64.105:8443?encryption=none&security=tls&sni=ratatouille.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php#🇫🇷%20KH-FR-03
 
 vless://c4916121-ce5e-460c-9627-bcec80f0f182@198.41.208.99:443?encryption=none&security=tls&sni=baguette.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=baguette.adaspoloandco.com&path=%2Fmarketplace#🇫🇷%20KH-FR-06
+
+vless://4f58635f-e25b-40a8-b6be-0b8a13acab22@104.19.64.105:2087?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#🇩🇪%20KH-DE-01
 
 # ===== BPB =====
 
@@ -67,6 +67,14 @@ vless://965bd133-2090-4367-9b0e-c1c99a849d3e@chatgpt.com:443?encryption=none&sec
 vless://965bd133-2090-4367-9b0e-c1c99a849d3e@162.159.140.99:443?encryption=none&security=tls&sni=test.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=test.matsurify341.ir&path=%2F#🇫🇷%20MF-FR-CF-01
 
 vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.19.131.173:443?encryption=none&security=tls&sni=netherland.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=netherland.matsurify341.ir&path=%2F#🇳🇱%20MF-NL-CF-01
+
+# ===== MS =====
+
+hysteria2://Masir_Sefid@18.196.180.90:443?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪%20MS-DE-HY2-UDP
+
+hysteria2://Masir_Sefid@18.196.180.90:8880?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪%20MS-DE-HY2-UDP
+
+hysteria2://Masir_Sefid@18.196.180.90:54040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪%20MS-DE-HY2-UDP
 
 
 
