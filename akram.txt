@@ -83,4 +83,10 @@ vless://e087904a-c494-4d26-b71d-8af1174c53e5@fbi.gov:443?encryption=none&securit
 vless://e087904a-c494-4d26-b71d-8af1174c53e5@188.114.98.0:443?encryption=none&security=tls&sni=cdn-pro5.postshup.ir.&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=cdn-pro5.postshup.ir.&path=%2Fnews#🇩🇪 ZI-CDN-DE-05-PREMIUM
 
 
+# ===== MS =====
 
+hysteria2://Masir_Sefid@18.196.180.90:443?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪%20MS-DE-HY2-UDP
+
+hysteria2://Masir_Sefid@18.196.180.90:8880?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪%20MS-DE-HY2-UDP
+
+hysteria2://Masir_Sefid@18.196.180.90:54040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪%20MS-DE-HY2-UDP
