@@ -84,14 +84,14 @@ vless://e087904a-c494-4d26-b71d-8af1174c53e5@188.114.98.0:443?encryption=none&se
 
 # ===== MS =====
 
-hysteria2://Masir_Sefid@18.159.66.5:443?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-01-UDP
+hysteria2://Masir_Sefid@18.198.106.153:443?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-01-UDP
 
-hysteria2://Masir_Sefid@18.159.66.5:444?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-02-UDP
+hysteria2://Masir_Sefid@18.198.106.153:444?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-02-UDP
 
-hysteria2://Masir_Sefid@18.159.66.5:8880?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-03-UDP
+hysteria2://Masir_Sefid@18.198.106.153:8880?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-03-UDP
 
-hysteria2://Masir_Sefid@18.159.66.5:1040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-04-UDP
+hysteria2://Masir_Sefid@18.198.106.153:1040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-04-UDP
 
-hysteria2://Masir_Sefid@18.159.66.5:4040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-05-UDP
+hysteria2://Masir_Sefid@18.198.106.153:4040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-05-UDP
 
-hysteria2://Masir_Sefid@18.159.66.5:54040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-06-UDP
+hysteria2://Masir_Sefid@18.198.106.153:54040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-06-UDP
