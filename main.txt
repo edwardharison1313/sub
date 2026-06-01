@@ -12,7 +12,7 @@ vless://52ad04bc-eb90-4845-aae1-1f422522332f@172.64.155.209:8443?type=ws&encrypt
 
 vless://52ad04bc-eb90-4845-aae1-1f422522332f@188.114.99.160:8443?type=ws&encryption=none&path=%2FRoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=interim.adaspoloandco.com&allowInsecure=0#🇫🇮 KH-FI-08
 
-vless://5f675eea-a53b-40ae-beb6-ee304a389f3e@104.19.64.105:8443?type=ws&encryption=none&path=%2FArEyOuMaD&host=amphetamine.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=amphetamine.adaspoloandco.com&allowInsecure=0#🇫🇮 KH-AMP-01
+vless://47edbc8f-c046-4be6-a387-a25fa4809cf9@198.41.208.99:8443?type=ws&encryption=none&path=%2FArEyOuMaD&host=amphetamine.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=amphetamine.adaspoloandco.com&allowInsecure=0#🇫🇮 KH-AMP-01
 
 vless://bf116897-eca4-459c-9f97-4019fa0ace7f@104.19.64.105:8443?type=ws&encryption=none&path=%2FRizZrAcK&host=focalin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=focalin.adaspoloandco.com&allowInsecure=0#🇫🇮 KH-FOC-01
 
