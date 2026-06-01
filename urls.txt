@@ -12,7 +12,7 @@ vless://52ad04bc-eb90-4845-aae1-1f422522332f@172.64.155.209:8443?type=ws&encrypt
 
 vless://52ad04bc-eb90-4845-aae1-1f422522332f@188.114.99.160:8443?type=ws&encryption=none&path=%2FRoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=interim.adaspoloandco.com&allowInsecure=0#🇫🇮 KH-FI-08
 
-vless://5f675eea-a53b-40ae-beb6-ee304a389f3e@104.19.64.105:8443?type=ws&encryption=none&path=%2FArEyOuMaD&host=amphetamine.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=amphetamine.adaspoloandco.com&allowInsecure=0#🇫🇮 KH-AMP-01
+vless://47edbc8f-c046-4be6-a387-a25fa4809cf9@198.41.208.99:8443?type=ws&encryption=none&path=%2FArEyOuMaD&host=amphetamine.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=amphetamine.adaspoloandco.com&allowInsecure=0#🇫🇮 KH-AMP-01
 
 vless://bf116897-eca4-459c-9f97-4019fa0ace7f@104.19.64.105:8443?type=ws&encryption=none&path=%2FRizZrAcK&host=focalin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=focalin.adaspoloandco.com&allowInsecure=0#🇫🇮 KH-FOC-01
 
@@ -54,28 +54,31 @@ vless://709d8812-1801-480d-8f57-b02a607cb5e7@yg1.ygkkk.dpdns.org:8880?encryption
 
 # ===== MF =====
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@snapp.ir:8880?encryption=none&security=none&type=ws&host=paris.matsurify.ir&path=%2F#🇫🇷%20MF-FR-TCDN-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@snapp.ir:8880?encryption=none&type=ws&path=%2F&host=paris.matsurify.ir&security=none#🇫🇷 MF-FR-TCDN-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@snapp.ir:8880?encryption=none&security=none&type=ws&host=tr.matsurify.ir&path=%2F#🇹🇷%20MF-TR-TCDN-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@snapp.ir:8880?encryption=none&type=ws&path=%2F&host=tr.matsurify.ir&security=none#🇹🇷 MF-TR-TCDN-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@188.114.98.0:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tr.matsurify341.ir&path=%2F#🇹🇷%20MF-TR-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.17.88.92:443?encryption=none&type=ws&path=%2F&host=tr.matsurify341.ir&security=tls&sni=usa.matsurify341.ir&fp=chrome#🇹🇷 MF-TR-CF-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.18.12.149:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=usa.matsurify341.ir&path=%2F#🇺🇸%20MF-US-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.25.207.119:443?encryption=none&type=ws&path=%2F&host=usa.matsurify341.ir&security=tls&sni=usa.matsurify341.ir&fp=chrome#🇺🇸 MF-US-CF-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@chatgpt.com:443?encryption=none&security=tls&sni=london.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=london.matsurify341.ir&path=%2F#🇬🇧%20MF-UK-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.21.56.59:443?encryption=none&type=ws&path=%2F&host=london.matsurify341.ir&security=tls&sni=london.matsurify341.ir&fp=chrome#🇬🇧 MF-UK-CF-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@162.159.140.99:443?encryption=none&security=tls&sni=test.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=test.matsurify341.ir&path=%2F#🇫🇷%20MF-FR-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.67.223.182:443?encryption=none&type=ws&path=%2F&host=test.matsurify341.ir&security=tls&sni=test.matsurify341.ir&fp=chrome#🇫🇷 MF-FR-CF-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.19.131.173:443?encryption=none&security=tls&sni=netherland.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=netherland.matsurify341.ir&path=%2F#🇳🇱%20MF-NL-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@23.227.60.49:443?encryption=none&type=ws&path=%2F&host=netherland.matsurify341.ir&security=tls&sni=netherland.matsurify341.ir&fp=chrome#🇳🇱 MF-NL-CF-01
+
 
 # ===== MS =====
 
-hysteria2://Masir_Sefid@18.196.180.90:443?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪%20MS-DE-HY2-UDP
+hysteria2://Masir_Sefid@18.159.66.5:443?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-01
 
-hysteria2://Masir_Sefid@18.196.180.90:8880?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪%20MS-DE-HY2-UDP
+hysteria2://Masir_Sefid@18.159.66.5:444?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-02
 
-hysteria2://Masir_Sefid@18.196.180.90:54040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪%20MS-DE-HY2-UDP
+hysteria2://Masir_Sefid@18.159.66.5:8880?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-03
 
+hysteria2://Masir_Sefid@18.159.66.5:1040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-04
 
+hysteria2://Masir_Sefid@18.159.66.5:4040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-05
 
-
+hysteria2://Masir_Sefid@18.159.66.5:54040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-06
