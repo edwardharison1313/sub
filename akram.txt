@@ -1,5 +1,5 @@
 #profile-title: ⚡Akram⚡
-#profile-update-interval: 12
+#profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=1073741824000; expire=4102444800
 
 # ===== MAIN SERVERS =====
@@ -92,8 +92,4 @@ hysteria2://Masir_Sefid@18.198.106.153:444?sni=qus.masir-sefid.shop&insecure=0&a
 
 hysteria2://Masir_Sefid@18.198.106.153:8880?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-03-UDP
 
-hysteria2://Masir_Sefid@18.198.106.153:1040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-04-UDP
-
-hysteria2://Masir_Sefid@18.198.106.153:4040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-05-UDP
-
-hysteria2://Masir_Sefid@18.198.106.153:54040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-06-UDP
+hysteria2://Masir_Sefid@18.198.106.153:54040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇩🇪 MS-DE-HY2-04-UDP
