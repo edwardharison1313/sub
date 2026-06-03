@@ -68,7 +68,10 @@ vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.21.56.59:443?encryption=none&ty
 
 vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.67.223.182:443?encryption=none&type=ws&path=%2F&host=test.matsurify341.ir&security=tls&sni=test.matsurify341.ir&fp=chrome#🇫🇷 MF-FR-CF-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@23.227.60.49:443?encryption=none&type=ws&path=%2F&host=netherland.matsurify341.ir&security=tls&sni=netherland.matsurify341.ir&fp=chrome#🇳🇱 MF-NL-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@89.208.113.71:8880?encryption=none&security=none&type=ws&path=%2F#🇫🇷 MF-FR-DIRECT-01
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@83.217.9.225:8880?encryption=none&security=none&type=ws&path=%2F#🇹🇷 MF-TR-DIRECT-01
+
 
 
 # ===== MS =====
