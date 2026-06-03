@@ -54,26 +54,6 @@ vless://709d8812-1801-480d-8f57-b02a607cb5e7@yg1.ygkkk.dpdns.org:8443?encryption
 vless://709d8812-1801-480d-8f57-b02a607cb5e7@yg1.ygkkk.dpdns.org:8880?encryption=none&security=none&type=ws&host=shiny-frost-9d81.edwardharison1313.workers.dev&path=%2F%3Fed%3D2560#🦄%20YONGGEKKK-NTLS-01
 
 
-# ===== MF =====
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@snapp.ir:8880?encryption=none&type=ws&path=%2F&host=paris.matsurify.ir&security=none#🇫🇷 MF-FR-TCDN-01
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@snapp.ir:8880?encryption=none&type=ws&path=%2F&host=tr.matsurify.ir&security=none#🇹🇷 MF-TR-TCDN-01
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.17.88.92:443?encryption=none&type=ws&path=%2F&host=tr.matsurify341.ir&security=tls&sni=usa.matsurify341.ir&fp=chrome#🇹🇷 MF-TR-CF-01
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.25.207.119:443?encryption=none&type=ws&path=%2F&host=usa.matsurify341.ir&security=tls&sni=usa.matsurify341.ir&fp=chrome#🇺🇸 MF-US-CF-01
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.21.56.59:443?encryption=none&type=ws&path=%2F&host=london.matsurify341.ir&security=tls&sni=london.matsurify341.ir&fp=chrome#🇬🇧 MF-UK-CF-01
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.67.223.182:443?encryption=none&type=ws&path=%2F&host=test.matsurify341.ir&security=tls&sni=test.matsurify341.ir&fp=chrome#🇫🇷 MF-FR-CF-01
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@89.208.113.71:8880?encryption=none&security=none&type=ws&path=%2F#🇫🇷 MF-FR-DIRECT-01
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@83.217.9.225:8880?encryption=none&security=none&type=ws&path=%2F#🇹🇷 MF-TR-DIRECT-01
-
-
-
 # ===== MS =====
 
 hysteria2://Masir_Sefid@34.196.169.182:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=masir-sefid.shop#🇩🇪 MS-DE-HY2-01-UDP
@@ -97,3 +77,22 @@ hysteria2://Masir_Sefid@34.196.169.182:48990?security=tls&obfs=salamander&obfs-p
 hysteria2://Masir_Sefid@34.196.169.182:15015?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=masir-sefid.shop#🇩🇪 MS-DE-HY2-10-UDP
 
 hysteria2://Masir_Sefid@34.196.169.182:20830?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=masir-sefid.shop#🇩🇪 MS-DE-HY2-11-UDP
+
+
+# ===== MF =====
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@snapp.ir:8880?encryption=none&type=ws&path=%2F&host=paris.matsurify.ir&security=none#🇫🇷 MF-FR-TCDN-01
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@snapp.ir:8880?encryption=none&type=ws&path=%2F&host=tr.matsurify.ir&security=none#🇹🇷 MF-TR-TCDN-01
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.17.88.92:443?encryption=none&type=ws&path=%2F&host=tr.matsurify341.ir&security=tls&sni=usa.matsurify341.ir&fp=chrome#🇹🇷 MF-TR-CF-01
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.25.207.119:443?encryption=none&type=ws&path=%2F&host=usa.matsurify341.ir&security=tls&sni=usa.matsurify341.ir&fp=chrome#🇺🇸 MF-US-CF-01
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.21.56.59:443?encryption=none&type=ws&path=%2F&host=london.matsurify341.ir&security=tls&sni=london.matsurify341.ir&fp=chrome#🇬🇧 MF-UK-CF-01
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.67.223.182:443?encryption=none&type=ws&path=%2F&host=test.matsurify341.ir&security=tls&sni=test.matsurify341.ir&fp=chrome#🇫🇷 MF-FR-CF-01
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@89.208.113.71:8880?encryption=none&security=none&type=ws&path=%2F#🇫🇷 MF-FR-DIRECT-01
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@83.217.9.225:8880?encryption=none&security=none&type=ws&path=%2F#🇹🇷 MF-TR-DIRECT-01
