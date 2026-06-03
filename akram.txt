@@ -79,14 +79,6 @@ vless://965bd133-2090-4367-9b0e-c1c99a849d3e@83.217.9.225:8880?encryption=none&s
 
 # ===== ZI =====
 
-vless://fac58704-ba75-4a80-9a72-adac91a7d0c7@fast.postshup.ir:8880?encryption=none&security=none&type=httpupgrade&host=cdn-pro1.postshup.ir&path=%2F%3Fed%3D2082#ZI-FAST-01-PREMIUM
-
-vless://fac58704-ba75-4a80-9a72-adac91a7d0c7@fast.postshup.ir:8880?encryption=none&security=none&type=httpupgrade&host=cdn-pro2.postshup.ir&path=%2F%3Fed%3D2082#ZI-FAST-02-PREMIUM
-
-vless://fac58704-ba75-4a80-9a72-adac91a7d0c7@fast.postshup.ir:8880?encryption=none&security=none&type=httpupgrade&host=cdn-pro3.postshup.ir&path=%2F%3Fed%3D2082#ZI-FAST-03-PREMIUM
-
-vless://fac58704-ba75-4a80-9a72-adac91a7d0c7@fast.postshup.ir:8880?encryption=none&security=none&type=httpupgrade&host=cdn-pro4.postshup.ir.&path=%2F%3Fed%3D2082#ZI-FAST-04-PREMIUM
-
 vless://fac58704-ba75-4a80-9a72-adac91a7d0c7@www.speedtest.net:443?encryption=none&security=tls&sni=cdn-pro1.postshup.ir.&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=cdn-pro1.postshup.ir.&path=%2Fnews#🇫🇮 ZI-CDN-FI-01-PREMIUM
 
 vless://fac58704-ba75-4a80-9a72-adac91a7d0c7@fbi.gov:443?encryption=none&security=tls&sni=cdn-pro2.postshup.ir.&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=cdn-pro2.postshup.ir.&path=%2Fnews#🇩🇪 ZI-CDN-DE-01-PREMIUM
