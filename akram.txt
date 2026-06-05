@@ -54,9 +54,10 @@ vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@188.114.97.3:2096?encryption=none&s
 
 # ===== YONGGEKKK =====
 
-vless://709d8812-1801-480d-8f57-b02a607cb5e7@yg1.ygkkk.dpdns.org:8443?encryption=none&security=tls&sni=shiny-frost-9d81.edwardharison1313.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=shiny-frost-9d81.edwardharison1313.workers.dev&path=%2F%3Fed%3D2560#🦄%20YONGGEKKK-TLS-01
+vless://ff3d4e42-d195-433b-a991-a8e0a251be63@yg1.ygkkk.dpdns.org:8880?encryption=none&security=none&type=ws&host=special.akramgorji.workers.dev&path=%2F%3Fed%3D2560#special.akramgorji.workers.dev#🦄%20YONGGEKKK-NTLS-01
 
-vless://709d8812-1801-480d-8f57-b02a607cb5e7@yg1.ygkkk.dpdns.org:8880?encryption=none&security=none&type=ws&host=shiny-frost-9d81.edwardharison1313.workers.dev&path=%2F%3Fed%3D2560#🦄%20YONGGEKKK-NTLS-01
+vless://ff3d4e42-d195-433b-a991-a8e0a251be63@yg1.ygkkk.dpdns.org:8443?encryption=none&security=tls&sni=special.akramgorji.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=special.akramgorji.workers.dev&path=%2F%3Fed%3D2560#special.akramgorji.workers.dev🦄%20YONGGEKKK-TLS-01
+
 
 # ===== MS =====
 
