@@ -59,13 +59,13 @@ vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@vip.akramgorji.workers.dev:443?encr
 
 vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@www.speedtest.net:443?encryption=none&security=tls&sni=VIp.AkRamgORji.workeRs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiT3U2N2RmTDRoSCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#🇩🇪🧩 BPB-DE-02
 
-vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@172.67.145.217:443?encryption=none&security=tls&sni=vip.AKRaMGOrJI.woRKers.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiWll0UjFha0VJeHp4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🇺🇸🧩 BPB-US-01
-
-vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@104.21.28.106:443?encryption=none&security=tls&sni=Vip.akrAMGORJI.WOrkERS.DEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiRkdZVndUaWhJYmlET2tvIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🇺🇸🧩 BPB-US-02
-
 vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@vip.akramgorji.workers.dev:2096?encryption=none&security=tls&sni=ViP.aKRAMGoRji.wOrkeRS.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiN21mVWNHRWxxUTRCZTA5MiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#🇩🇪🧩 BPB-DE-03
 
 vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@www.speedtest.net:2096?encryption=none&security=tls&sni=viP.akraMGOrJi.wOrkERS.dEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoicHJuSEM2MVREYmY3TyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#🇩🇪🧩 BPB-DE-04
+
+vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@172.67.145.217:443?encryption=none&security=tls&sni=vip.AKRaMGOrJI.woRKers.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiWll0UjFha0VJeHp4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🇺🇸🧩 BPB-US-01
+
+vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@104.21.28.106:443?encryption=none&security=tls&sni=Vip.akrAMGORJI.WOrkERS.DEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiRkdZVndUaWhJYmlET2tvIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🇺🇸🧩 BPB-US-02
 
 vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@172.67.145.217:2096?encryption=none&security=tls&sni=viP.aKramgorjI.worKeRs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiTGpHQml6dUdBd0lsTU1SIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🇺🇸🧩 BPB-US-03
 
