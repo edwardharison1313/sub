@@ -118,8 +118,6 @@ vless://fac58704-ba75-4a80-9a72-adac91a7d0c7@cd1.postshup.ir:443?encryption=none
 
 vless://fac58704-ba75-4a80-9a72-adac91a7d0c7@104.16.6.70:443?encryption=none&security=tls&sni=cdn-pro6.postshup.ir.&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=cdn-pro6.postshup.ir.&path=%2Fnews#🇩🇪 ZI-DE-02-PREMIUM
 
-vless://fac58704-ba75-4a80-9a72-adac91a7d0c7@cdn2.45tm.ir:443?encryption=none&security=tls&sni=cdn-pro5.postshup.ir.&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=cdn-pro5.postshup.ir.&path=%2Fnews#🇹🇷 ZI-TR-01-PREMIUM
+vless://fac58704-ba75-4a80-9a72-adac91a7d0c7@v2inj.hachamanash.com:443?encryption=none&security=tls&sni=Cdn8-pro.postshup.ir.&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=Cdn8-pro.postshup.ir.&path=%2Fnews#🇫🇷 ZI-FR-01-PREMIUM
 
-vless://fac58704-ba75-4a80-9a72-adac91a7d0c7@acha.claudify.org:443?encryption=none&security=tls&sni=Cdn8-pro.postshup.ir.&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=Cdn8-pro.postshup.ir.&path=%2Fnews#🇫🇷 ZI-FR-01-PREMIUM
-
-vless://fac58704-ba75-4a80-9a72-adac91a7d0c7@clean.parseshop.info:443?encryption=none&security=tls&sni=Cdn7-pro.postshup.ir.&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=Cdn7-pro.postshup.ir.&path=%2Fnews#🇳🇱 ZI-NL-01-PREMIUM
+vless://fac58704-ba75-4a80-9a72-adac91a7d0c7@acha.claudify.org:443?encryption=none&security=tls&sni=ip.wit1.postshup.ir.&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=Cdn-pro15.postshup.ir&path=%2Fnews#🇹🇷 ZI-TR-01-PREMIUM
