@@ -73,36 +73,30 @@ vless://ff3d4e42-d195-433b-a991-a8e0a251be63@yg1.ygkkk.dpdns.org:8443?encryption
 
 trojan://Masir_Sefid@188.213.130.212:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FzyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#🇨🇭 MS-CH-01
 
-trojan://Masir_Sefid@188.213.130.212:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FW8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#🇨🇭 MS-CH-02
-
-trojan://Masir_Sefid@84.234.31.249:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FzyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#🇨🇭 MS-CH-03
-
-trojan://Masir_Sefid@84.234.31.249:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FW8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#🇨🇭 MS-CH-04
-
-trojan://Masir_Sefid@37.156.45.168:443?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=%2FFQDh1KA6NaPaGpV&type=tcp&sni=store.steampowered.com&sid=d67d2e36#🇨🇭 MS-CH-05
-
-trojan://Masir_Sefid@37.156.45.168:2053?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=%2Fastd6TTQuZVbaNl&type=tcp&sni=store.steampowered.com&sid=d67d2e36#🇨🇭 MS-CH-06
-
-trojan://Masir_Sefid@188.213.130.212:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FaRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#🇨🇭 MS-CH-07
-
-trojan://Masir_Sefid@37.156.45.168:2083?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=%2FzhH6xrLTx7oS2Yl&type=tcp&sni=store.steampowered.com&sid=d2f7#🇨🇭 MS-CH-08
-
 
 # ===== MF =====
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.64.94.149:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tr.matsurify341.ir&path=%2F#🇹🇷 MF-TR-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.17.162.157:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tr.matsurify341.ir&path=%2F#🇹🇷 MF-TR-CF-01
 
 vless://965bd133-2090-4367-9b0e-c1c99a849d3e@188.114.97.6:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=usa.matsurify341.ir&path=%2F#🇺🇸 MF-US-CF-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@188.42.145.202:443?encryption=none&security=tls&sni=london.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=london.matsurify341.ir&path=%2F#🇬🇧 MF-UK-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.24.95.2:443?encryption=none&security=tls&sni=london.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=london.matsurify341.ir&path=%2F#🇬🇧 MF-UK-CF-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@188.114.98.102:443?encryption=none&security=tls&sni=test.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=test.matsurify341.ir&path=%2F#🇫🇷 MF-FR-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.25.146.39:443?encryption=none&security=tls&sni=germany.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tr.matsurify341.ir&path=%2F#🇩🇪 MF-DE-CF-01
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.19.105.200:443?encryption=none&security=tls&sni=test.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=test.matsurify341.ir&path=%2F#🇫🇷 MF-FR-CF-01
 
 vless://965bd133-2090-4367-9b0e-c1c99a849d3e@89.208.113.71:8880?encryption=none&security=none&type=ws&path=%2F#🇫🇷 MF-FR-DIRECT-01
 
 vless://965bd133-2090-4367-9b0e-c1c99a849d3e@83.217.9.225:8880?encryption=none&security=none&type=ws&path=%2F#🇹🇷 MF-TR-DIRECT-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@45.131.208.53:443?encryption=none&security=tls&sni=netherland.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=netherland.matsurify341.ir&path=%2F#🇳🇱 MF-NL-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.67.210.219:443?encryption=none&security=tls&sni=netherland.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=netherland.matsurify341.ir&path=%2F#🇳🇱 MF-NL-CF-01
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.25.140.147:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=usa.matsurify341.ir&path=%2F#🇺🇸 MF-US-CF-02
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@162.159.136.193:443?encryption=none&security=tls&sni=london.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=london.matsurify341.ir&path=%2F#🇬🇧 MF-UK-CF-02
+
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@188.114.97.6:443?encryption=none&security=tls&sni=test.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=test.matsurify341.ir&path=%2F#🇫🇷 MF-FR-CF-02
 
 
 # ===== ZI =====
