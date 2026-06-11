@@ -64,27 +64,6 @@ vless://ff3d4e42-d195-433b-a991-a8e0a251be63@yg1.ygkkk.dpdns.org:8443?encryption
 
 trojan://Masir_Sefid@84.234.28.207:443?security=reality&sni=store.steampowered.com&fp=chrome&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&sid=6ced01fc4aa417&spx=%2FzyKRb3NaP9Ee0j4&type=tcp&headerType=none#🇨🇭 MS-CH-01-UDP
 
-trojan://Masir_Sefid@84.234.28.207:1040?security=reality&sni=store.steampowered.com&fp=chrome&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&sid=84e87fdcdf2ea9e8&spx=%2FaRBYGa427aKKE16&type=tcp&headerType=none#🇨🇭 MS-CH-02-UDP
-
-trojan://Masir_Sefid@84.234.28.207:2053?security=reality&sni=store.steampowered.com&fp=chrome&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&sid=20b301df70&spx=%2FW8svbYrFok2DfFx&type=tcp&headerType=none#🇨🇭 MS-CH-03-UDP
-
-trojan://Masir_Sefid@84.234.28.207:2083?security=reality&sni=store.steampowered.com&fp=chrome&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&sid=84e87fdcdf2ea9e8&spx=%2FChZzHJgLH1mdM6A&type=tcp&headerType=none#🇨🇭 MS-CH-04-UDP
-
-hysteria2://Masir_Sefid@84.234.28.207:443?sni=Api.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇨🇭 MS-CH-HY2-01
-
-hysteria2://Masir_Sefid@84.234.28.207:1040?sni=Api.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇨🇭 MS-CH-HY2-02
-
-hysteria2://Masir_Sefid@84.234.28.207:2053?sni=Api.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇨🇭 MS-CH-HY2-03
-
-hysteria2://Masir_Sefid@84.234.28.207:2087?sni=Api.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇨🇭 MS-CH-HY2-04
-
-hysteria2://Masir_Sefid@84.234.28.207:4040?sni=Api.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇨🇭 MS-CH-HY2-05
-
-hysteria2://Masir_Sefid@84.234.28.207:8443?sni=Api.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇨🇭 MS-CH-HY2-06
-
-hysteria2://Masir_Sefid@84.234.28.207:54040?sni=Api.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🇨🇭 MS-CH-HY2-07
-
-
 # ===== MF =====
 
 vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.17.162.157:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tr.matsurify341.ir&path=%2F#🇹🇷 MF-TR-CF-01
