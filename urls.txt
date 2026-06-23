@@ -97,24 +97,20 @@ trojan://Masir_Sefid@84.234.28.207:443?security=reality&sni=store.steampowered.c
 
 # ===== MF =====
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@185.176.24.88:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tr.matsurify341.ir&path=%2F#🇹🇷 MF-TR-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.20.27.132:443?encryption=none&security=tls&sni=usa.threatmarket.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=usa.threatmarket.org&path=%2F#🇺🇸 MF-US-CF-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@188.42.145.214:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=usa.matsurify341.ir&path=%2F#🇺🇸 MF-US-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.17.131.151:443?encryption=none&security=tls&sni=london.threatmarket.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=london.threatmarket.org&path=%2F#🇬🇧 MF-UK-CF-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.67.177.67:443?encryption=none&security=tls&sni=london.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=london.matsurify341.ir&path=%2F#🇬🇧 MF-UK-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@198.41.211.212:443?encryption=none&security=tls&sni=germany.threatmarket.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=germany.threatmarket.org&path=%2F#🇩🇪 MF-DE-CF-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@167.68.11.118:443?encryption=none&security=tls&sni=germany.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tr.matsurify341.ir&path=%2F#🇩🇪 MF-DE-CF-01
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@45.128.76.251:443?encryption=none&security=tls&sni=test.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=test.matsurify341.ir&path=%2F#🇫🇷 MF-FR-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@185.146.173.51:443?encryption=none&security=tls&sni=fr.threatmarket.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=fr.threatmarket.org&path=%2F#🇫🇷 MF-FR-CF-01
 
 vless://965bd133-2090-4367-9b0e-c1c99a849d3e@89.208.113.71:8880?encryption=none&security=none&type=ws&path=%2F#🇫🇷 MF-FR-DIRECT-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@83.217.9.225:8880?encryption=none&security=none&type=ws&path=%2F#🇹🇷 MF-TR-DIRECT-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.66.192.71:443?encryption=none&security=tls&sni=netherland.threatmarket.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=netherland.threatmarket.org&path=%2F#🇳🇱 MF-NL-CF-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.67.210.219:443?encryption=none&security=tls&sni=netherland.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=netherland.matsurify341.ir&path=%2F#🇳🇱 MF-NL-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@162.159.136.2:443?encryption=none&security=tls&sni=usa.threatmarket.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=usa.threatmarket.org&path=%2F#🇺🇸 MF-US-CF-02
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.67.210.219:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=usa.matsurify341.ir&path=%2F#🇺🇸 MF-US-CF-02
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@45.80.110.134:443?encryption=none&security=tls&sni=london.threatmarket.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=london.threatmarket.org&path=%2F#🇬🇧 MF-UK-CF-02
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.67.210.219:443?encryption=none&security=tls&sni=london.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=london.matsurify341.ir&path=%2F#🇬🇧 MF-UK-CF-02
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.16.131.64:443?encryption=none&security=tls&sni=test.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=test.matsurify341.ir&path=%2F#🇫🇷 MF-FR-CF-02
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.67.240.40:443?encryption=none&security=tls&sni=fr.threatmarket.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=fr.threatmarket.org&path=%2F#🇫🇷 MF-FR-CF-02
