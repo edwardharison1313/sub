@@ -61,10 +61,6 @@ vless://709d8812-1801-480d-8f57-b02a607cb5e7@yg1.ygkkk.dpdns.org:8443?encryption
 
 vless://709d8812-1801-480d-8f57-b02a607cb5e7@yg1.ygkkk.dpdns.org:8880?encryption=none&security=none&type=ws&host=shiny-frost-9d81.edwardharison1313.workers.dev&path=%2F%3Fed%3D2560#🇩🇪 🦄%20YONGGEKKK-NTLS-01
 
-# ===== MS =====
-
-trojan://Masir_Sefid@84.234.28.207:443?security=reality&sni=store.steampowered.com&fp=chrome&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&sid=6ced01fc4aa417&spx=%2FzyKRb3NaP9Ee0j4&type=tcp&headerType=none#🇨🇭 MS-CH-01-UDP
-
 # ===== MF =====
 
 vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.16.224.98:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=usa.matsurify341.ir&path=%2F#🇺🇸 MF-US-CF-01
