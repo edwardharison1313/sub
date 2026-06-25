@@ -67,19 +67,20 @@ vless://965bd133-2090-4367-9b0e-c1c99a849d3e@89.208.113.71:8880?encryption=none&
 
 # ===== ZI =====
 
-vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@185.171.202.145:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com
+vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@185.171.202.145:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com#🇫🇷 ZI-FR-01
 
-vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@185.171.202.108:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com
+vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@185.171.202.108:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com#🇫🇷 ZI-FR-02
 
-vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@45.65.112.21:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com
+vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@45.65.112.21:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com#🇫🇷 ZI-FR-03
 
-vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@159.69.42.76:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com
+vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@159.69.42.76:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com#🇩🇪 ZI-DE-01
 
-vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@178.105.38.169:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com
+vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@178.105.38.169:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com#🇩🇪 ZI-DE-02
 
-vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@185.171.202.157:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com
+vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@185.171.202.157:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com#🇫🇷 ZI-FR-04
 
-vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@45.13.119.3:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com
+vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@45.13.119.3:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com#🇫🇷 ZI-FR-05
+
 
 # ===== BPB =====
 
