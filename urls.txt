@@ -53,21 +53,21 @@ vless://709d8812-1801-480d-8f57-b02a607cb5e7@yg1.ygkkk.dpdns.org:8880?encryption
 
 # ===== MF =====
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.16.224.98:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=usa.matsurify341.ir&path=%2F#🇺🇸 MF-US-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.19.178.201:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=usa.matsurify341.ir&path=%2F#🇺🇸 MF-US-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.16.224.98:443?encryption=none&security=tls&sni=london.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=london.matsurify341.ir&path=%2F#🇬🇧 MF-UK-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@89.116.180.215:443?encryption=none&security=tls&sni=london.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=london.matsurify341.ir&path=%2F#🇬🇧 MF-UK-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.67.64.211:443?encryption=none&security=tls&sni=germany.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=germany.matsurify341.ir&path=%2F#🇩🇪 MF-DE-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.67.64.211:443?encryption=none&security=tls&sni=germany.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=germany.matsurify341.ir&path=%2F#🇩🇪 MF-DE-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@185.238.228.255:443?encryption=none&security=tls&sni=fr.threatmarket.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=fr.threatmarket.org&path=%2F#🇫🇷 MF-FR-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@94.247.142.161:443?encryption=none&security=tls&sni=fr.threatmarket.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=fr.threatmarket.org&path=%2F#🇫🇷 MF-FR-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.64.87.246:443?encryption=none&security=tls&sni=netherland.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=netherland.matsurify341.ir&path=%2F#🇳🇱 MF-NL-CF-01
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.66.42.184:443?encryption=none&security=tls&sni=netherland.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=netherland.matsurify341.ir&path=%2F#🇳🇱 MF-NL-01
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@162.159.26.6:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=usa.matsurify341.ir&path=%2F#🇺🇸 MF-US-CF-02
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@162.159.130.6:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=usa.matsurify341.ir&path=%2F#🇺🇸 MF-US-02
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@155.46.167.13:443?encryption=none&security=tls&sni=london.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=london.matsurify341.ir&path=%2F#🇬🇧 MF-UK-CF-02
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.25.57.166:443?encryption=none&security=tls&sni=london.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=london.matsurify341.ir&path=%2F#🇬🇧 MF-UK-02
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.25.245.239:443?encryption=none&security=tls&sni=fr.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=fr.matsurify341.ir&path=%2F#🇫🇷 MF-FR-CF-02
+vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.25.98.149:443?encryption=none&security=tls&sni=fr.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=fr.matsurify341.ir&path=%2F#🇫🇷 MF-FR-02
 
 vless://965bd133-2090-4367-9b0e-c1c99a849d3e@89.208.113.71:8880?encryption=none&security=none&type=ws&path=%2F#🇫🇷 MF-FR-DIRECT-01
 
