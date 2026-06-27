@@ -92,7 +92,7 @@ vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@fastly.videobazi.com:443?encryption
 
 vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@fastly.videobazi.com:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=xhttp&host=dutschh.global.ssl.fastly.net&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🇫🇷 ZI-FR-FASTLY-01
 
-vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@ip2.iranphlox.ir:2086?encryption=none&security=none&type=xhttp&host=J.cafearen.ir&path=%2F%3Fed%3D2082&mode=auto#☁️ ZI-CF-01
+vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@ip2.iranphlox.ir:2086?encryption=none&security=none&type=xhttp&host=J.cafearen.ir&path=%2F%3Fed%3D2082&mode=auto#🇩🇪 ☁️ ZI-CF-01
 
 
 # ===== BPB =====
