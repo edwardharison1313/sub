@@ -45,6 +45,17 @@ vless://10a6b923-e349-4594-92bb-d81a6245aaec@198.41.208.99:443?type=ws&encryptio
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.14.85:443?type=ws&encryption=none&path=%2Fdownload.php&host=sertraline.adaspoloandco.com&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=sertraline.adaspoloandco.com&allowInsecure=0#🇫🇮👑 KH-SER-02-BEST
 
 
+# ===== VIZO =====
+
+vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@de.direct.v2v2.sbs:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=iFQ1hJGl_tbkCiRTgxBaiUceoMWy6NRMsCnfgizLMFE&sid=c099e43622568aa9&type=tcp&headerType=none#🇩🇪 VIZO-DE-01
+
+vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@de.direct.v2v2.sbs:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&sid=bc7c4660adb53714&type=tcp&headerType=none#🇩🇪 VIZO-DE-02
+
+vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@tr.direct.v2v2.sbs:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&sid=bc7c4660adb53714&type=tcp&headerType=none#🇹🇷 VIZO-TR-01
+
+vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@us.direct.v2v2.sbs:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&sid=bc7c4660adb53714&type=tcp&headerType=none#🇺🇸 VIZO-US-01
+
+
 # ===== MF =====
 
 vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.17.246.176:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=usa.matsurify341.ir&path=%2F#🇺🇸 MF-US-CF-01
@@ -67,19 +78,21 @@ vless://965bd133-2090-4367-9b0e-c1c99a849d3e@89.208.113.71:8880?encryption=none&
 
 # ===== ZI =====
 
-vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@185.171.202.145:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com#🇫🇷 ZI-FR-01
-
-vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@185.171.202.108:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com#🇫🇷 ZI-FR-02
-
-vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@45.65.112.21:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com#🇫🇷 ZI-FR-03
-
 vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@159.69.42.76:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com#🇩🇪 ZI-DE-01
 
 vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@178.105.38.169:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com#🇩🇪 ZI-DE-02
 
-vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@185.171.202.157:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com#🇫🇷 ZI-FR-04
+vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@45.13.119.3:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com#🇫🇷 ZI-FR-01
 
-vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@45.13.119.3:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com#🇫🇷 ZI-FR-05
+vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@45.65.112.21:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com#🇫🇷 ZI-FR-02
+
+vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@185.171.202.145:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com#🇫🇷 ZI-FR-03
+
+vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@fastly.videobazi.com:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=xhttp&host=Fastspeedmar.global.ssl.fastly.net&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🇩🇪 ZI-DE-FASTLY-01
+
+vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@fastly.videobazi.com:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=xhttp&host=dutschh.global.ssl.fastly.net&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🇫🇷 ZI-FR-FASTLY-01
+
+vless://3dc7df91-7ae1-4ef5-9e2d-3f427b76be84@ip2.iranphlox.ir:2086?encryption=none&security=none&type=xhttp&host=J.cafearen.ir&path=%2F%3Fed%3D2082&mode=auto#☁️ ZI-CF-01
 
 
 # ===== BPB =====
