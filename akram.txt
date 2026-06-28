@@ -44,9 +44,6 @@ vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.67.151.66:443?encryption=none&s
 
 vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.16.112.104:443?encryption=none&security=tls&sni=fr.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=fr.matsurify341.ir&path=%2F#🇫🇷 MF-FR-CF-02
 
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@89.208.113.71:8880?encryption=none&security=none&type=ws&path=%2F#🇫🇷 MF-FR-DIRECT-01
-
-
 # ===== ZI =====
 
 vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@rea.iramnew4.ir:2096?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=RienorhlqXoG44Ll8yyfJfWP-Ok_wEEbDme-XSLLJBY&sid=f0ae7f4edad8793a&type=tcp&headerType=none#🇩🇪 ZI-DE-01
