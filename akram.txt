@@ -47,11 +47,17 @@ vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.14.85:443?type=ws&encryption
 
 # ===== VIZO =====
 
+vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@tr.direct.v2v2.sbs:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&sid=bc7c4660adb53714&type=tcp&headerType=none#🇹🇷 VIZO-TR-01
+
 vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@de.direct.v2v2.sbs:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=iFQ1hJGl_tbkCiRTgxBaiUceoMWy6NRMsCnfgizLMFE&sid=c099e43622568aa9&type=tcp&headerType=none#🇩🇪 VIZO-DE-01
 
 vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@de.direct.v2v2.sbs:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&sid=bc7c4660adb53714&type=tcp&headerType=none#🇩🇪 VIZO-DE-02
 
-vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@tr.direct.v2v2.sbs:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&sid=bc7c4660adb53714&type=tcp&headerType=none#🇹🇷 VIZO-TR-01
+vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@nl.direct.v2v2.sbs:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&sid=bc7c4660adb53714&type=tcp&headerType=none#🇳🇱 VIZO-NL-01
+
+vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@fr.direct.v2v2.sbs:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&sid=bc7c4660adb53714&type=tcp&headerType=none#🇫🇷 VIZO-FR-01
+
+vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@uk.direct.v2v2.sbs:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&sid=bc7c4660adb53714&type=tcp&headerType=none#🇬🇧 VIZO-UK-01
 
 vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@us.direct.v2v2.sbs:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&sid=bc7c4660adb53714&type=tcp&headerType=none#🇺🇸 VIZO-US-01
 
