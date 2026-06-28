@@ -35,24 +35,6 @@ vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@188.114.99.160:8443?type=ws&encrypt
 vless://fec70375-29cf-46cf-b314-536c74feee94@104.19.208.184:8443?type=ws&encryption=none&path=%2Fadmin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ratatouille.adaspoloandco.com&allowInsecure=0#🇫🇷👑 KH-FR-01-BEST
 
 
-
-# ===== VIZO =====
-
-vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@tr.direct.v2v2.sbs:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&sid=bc7c4660adb53714&type=tcp&headerType=none#🇹🇷 VIZO-TR-01
-
-vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@de.direct.v2v2.sbs:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=iFQ1hJGl_tbkCiRTgxBaiUceoMWy6NRMsCnfgizLMFE&sid=c099e43622568aa9&type=tcp&headerType=none#🇩🇪 VIZO-DE-01
-
-vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@de.direct.v2v2.sbs:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&sid=bc7c4660adb53714&type=tcp&headerType=none#🇩🇪 VIZO-DE-02
-
-vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@nl.direct.v2v2.sbs:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&sid=bc7c4660adb53714&type=tcp&headerType=none#🇳🇱 VIZO-NL-01
-
-vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@fr.direct.v2v2.sbs:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&sid=bc7c4660adb53714&type=tcp&headerType=none#🇫🇷 VIZO-FR-01
-
-vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@uk.direct.v2v2.sbs:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&sid=bc7c4660adb53714&type=tcp&headerType=none#🇬🇧 VIZO-UK-01
-
-vless://b6c8991e-9ce0-4f09-b831-d3a4e5768a59@us.direct.v2v2.sbs:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&sid=bc7c4660adb53714&type=tcp&headerType=none#🇺🇸 VIZO-US-01
-
-
 # ===== MF =====
 
 vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.17.246.176:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=usa.matsurify341.ir&path=%2F#🇺🇸 MF-US-CF-01
