@@ -51,23 +51,13 @@ vless://965bd133-2090-4367-9b0e-c1c99a849d3e@89.208.113.71:8880?encryption=none&
 
 vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@rea.iramnew4.ir:2096?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=RienorhlqXoG44Ll8yyfJfWP-Ok_wEEbDme-XSLLJBY&sid=f0ae7f4edad8793a&type=tcp&headerType=none#🇩🇪 ZI-DE-01
 
-vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@ht.iramnew4.ir:8443?encryption=none&security=none&type=xhttp&host=play.google.com&path=%2F&mode=packet-up#🇩🇪 ZI-DE-02
-
 vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@rea.iramkemaxyu.ir:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=0bE7PN-VFYMP1tpLg6K6zs2D7KOCBI9P0UcdGzHyuEs&sid=47cc30550f5f7003&type=tcp&headerType=none#🇹🇷 ZI-TR-01
-
-vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@rea.iramkemaxyu.ir:2087?encryption=none&security=none&type=xhttp&host=apps.apple.com&path=%2F&mode=auto#🇹🇷 ZI-TR-02
 
 vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@mail.nl1.moviechi.com:8082?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=Yt7xmbDOsH_PpwCZedtDMsClfqqtDXTPS1908ORonDM&sid=8065d1fbe0756bf0&type=tcp&headerType=none#🇳🇱 ZI-NL-01
 
-vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@mail.nl1.moviechi.com:8443?encryption=none&security=none&type=xhttp&host=play.google.com&path=%2F&mode=packet-up#🇳🇱 ZI-NL-02
-
 vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@mail.usa2.moviechi.com:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=_8j9WEbzgJF4_CbpyVpbenLNZEVN699h9abN0MnOqD0&sid=58e2f7055287c486&type=tcp&headerType=none#🇺🇸 ZI-US-01
 
-vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@mail.usa2.moviechi.com:8443?encryption=none&security=none&type=xhttp&host=play.google.com&path=%2F&mode=packet-up#🇺🇸 ZI-US-02
-
-vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@mail.japan1.moviechi.com:2053?encryption=none&security=none&type=xhttp&host=play.google.com&path=%2F&mode=packet-up#🇯🇵 ZI-JP-01
-
-vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@mail.japan1.moviechi.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=Iosppi9Dd5syKdi_Fdlr1j_5KjOyGCmm5IQkov10Rl4&sid=c476856a6fd92e61&type=tcp&headerType=none#🇯🇵 ZI-JP-02
+vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@mail.japan1.moviechi.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=Iosppi9Dd5syKdi_Fdlr1j_5KjOyGCmm5IQkov10Rl4&sid=c476856a6fd92e61&type=tcp&headerType=none#🇯🇵 ZI-JP-01
 
 # ===== BPB =====
 
