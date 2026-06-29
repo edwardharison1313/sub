@@ -46,7 +46,7 @@ vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.66.149.115:443?encryption=none&
 
 # ===== ZI =====
 
-vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@rea.iramnew4.ir:2096?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=RienorhlqXoG44Ll8yyfJfWP-Ok_wEEbDme-XSLLJBY&sid=f0ae7f4edad8793a&type=tcp&headerType=none#🇩🇪 ZI-DE-01
+vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@rea.iramnew4.ir:2096?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=RienorhlqXoG44Ll8yyfJfWP-Ok_wEEbDme-XSLLJBY&sid=ac790eafa07d937c&type=tcp&headerType=none#🇩🇪 ZI-DE-01
 
 vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@rea.iramkemaxyu.ir:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=0bE7PN-VFYMP1tpLg6K6zs2D7KOCBI9P0UcdGzHyuEs&sid=47cc30550f5f7003&type=tcp&headerType=none#🇹🇷 ZI-TR-01
 
