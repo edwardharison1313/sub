@@ -46,17 +46,13 @@ vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.66.149.115:443?encryption=none&
 
 # ===== ZI =====
 
-vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@rea.iramnew4.ir:2096?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=RienorhlqXoG44Ll8yyfJfWP-Ok_wEEbDme-XSLLJBY&sid=ac790eafa07d937c&type=tcp&headerType=none#🇩🇪 ZI-DE-01
-
-vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@mail.de2.moviechi.com:8443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=X6RtyenGZkdaH00wDrRjB-W1ZnKnna7PR3LIO-GUEGM&sid=d51e24705c19d80a&type=tcp&headerType=none#🇩🇪 ZI-DE-02-FAST
-
-vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@mail.de2.moviechi.com:8443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=7wDK5rqRsm1I6EQ9icYZyQonOrA6bSY86qmLnoj-Olg&sid=ce7648fe91280985&type=tcp&headerType=none#🇩🇪 ZI-DE-03-FAST
+vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@rea.iramnew4.ir:2096?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=RienorhlqXoG44Ll8yyfJfWP-Ok_wEEbDme-XSLLJBY&sid=f0ae7f4edad8793a&type=tcp&headerType=none#🇩🇪 ZI-DE-01
 
 vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@rea.iramkemaxyu.ir:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=0bE7PN-VFYMP1tpLg6K6zs2D7KOCBI9P0UcdGzHyuEs&sid=47cc30550f5f7003&type=tcp&headerType=none#🇹🇷 ZI-TR-01
 
 vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@mail.nl1.moviechi.com:8082?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=Yt7xmbDOsH_PpwCZedtDMsClfqqtDXTPS1908ORonDM&sid=8065d1fbe0756bf0&type=tcp&headerType=none#🇳🇱 ZI-NL-01
 
-vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@mail.japan1.moviechi.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=Iosppi9Dd5syKdi_Fdlr1j_5KjOyGCmm5IQkov10Rl4&sid=c476856a6fd92e61&type=tcp&headerType=none#🇯🇵 ZI-JP-01
+vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@mail.japan1.moviechi.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=Iosppi9Dd5syKdi_Fdlr1j_5KjOyGCmm5IQkov10Rl4&sid=c476856a6fd92e61&type=tcp&headerType=none#🇯🇵 ZI-JP-02
 
 # ===== BPB =====
 
