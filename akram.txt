@@ -26,24 +26,6 @@ vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@188.114.99.160:8443?type=ws&encrypt
 vless://fec70375-29cf-46cf-b314-536c74feee94@104.19.208.184:8443?type=ws&encryption=none&path=%2Fadmin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ratatouille.adaspoloandco.com&allowInsecure=0#🇫🇷👑 KH-FR-01-BEST
 vless://fec70375-29cf-46cf-b314-536c74feee94@104.19.64.105:8443?type=ws&encryption=none&path=%2Fadmin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ratatouille.adaspoloandco.com&allowInsecure=0#🇫🇷👑 KH-FR-02-BEST
 
-# ===== MF =====
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.18.29.60:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=usa.matsurify341.ir&path=%2F#🇺🇸 MF-US-CF-01
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.67.151.66:443?encryption=none&security=tls&sni=usa.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=usa.matsurify341.ir&path=%2F#🇺🇸 MF-US-CF-02
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.21.28.47:443?encryption=none&security=tls&sni=london.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=london.matsurify341.ir&path=%2F#🇬🇧 MF-UK-CF-01
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.67.151.66:443?encryption=none&security=tls&sni=london.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=london.matsurify341.ir&path=%2F#🇬🇧 MF-UK-CF-02
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@162.159.15.26:443?encryption=none&security=tls&sni=fr.threatmarket.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=fr.threatmarket.org&path=%2F#🇫🇷 MF-FR-CF-01
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@185.162.230.47:443?encryption=none&security=tls&sni=fr.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=fr.matsurify341.ir&path=%2F#🇫🇷 MF-FR-CF-02
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@104.21.28.47:443?encryption=none&security=tls&sni=netherland.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=netherland.matsurify341.ir&path=%2F#🇳🇱 MF-NL-CF-01
-
-vless://965bd133-2090-4367-9b0e-c1c99a849d3e@172.66.149.115:443?encryption=none&security=tls&sni=germany.matsurify341.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=germany.matsurify341.ir&path=%2F#🇩🇪 MF-DE-CF-01
-
 # ===== ZI =====
 
 vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@rea.iramnew4.ir:2096?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=RienorhlqXoG44Ll8yyfJfWP-Ok_wEEbDme-XSLLJBY&sid=f0ae7f4edad8793a&type=tcp&headerType=none#🇩🇪 ZI-DE-01
@@ -53,6 +35,24 @@ vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@rea.iramkemaxyu.ir:2053?encryption=
 vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@mail.nl1.moviechi.com:8082?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=Yt7xmbDOsH_PpwCZedtDMsClfqqtDXTPS1908ORonDM&sid=8065d1fbe0756bf0&type=tcp&headerType=none#🇳🇱 ZI-NL-01
 
 vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@mail.japan1.moviechi.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=Iosppi9Dd5syKdi_Fdlr1j_5KjOyGCmm5IQkov10Rl4&sid=c476856a6fd92e61&type=tcp&headerType=none#🇯🇵 ZI-JP-02
+
+
+# ===== Badban =====
+
+vless://83cf419e-0752-46de-82ec-d8403ba91b71@arosak.shop:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 Badban-DE-01
+
+vless://83cf419e-0752-46de-82ec-d8403ba91b71@mashinbazi.wiki:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qiwendiqwn.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 Badban-DE-02
+
+vless://83cf419e-0752-46de-82ec-d8403ba91b71@plusgum.xyz:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 Badban-DE-03
+
+vless://83cf419e-0752-46de-82ec-d8403ba91b71@arosakshop.xyz:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqwedioqwnmdoemqw.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 Badban-DE-04
+
+vless://83cf419e-0752-46de-82ec-d8403ba91b71@plusgum.shop:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=iwqedoiqwnadfsqipowner.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 Badban-DE-05
+
+vless://83cf419e-0752-46de-82ec-d8403ba91b71@mashinbazi.shop:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qiwendiqwn.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇬🇧 Badban-UK-01
+
+vless://83cf419e-0752-46de-82ec-d8403ba91b71@abnabatchoobi.online:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qiwendiqwn.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 Badban-FR-01
+
 
 # ===== BPB =====
 
