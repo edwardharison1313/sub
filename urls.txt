@@ -47,8 +47,8 @@ vless://2a58f6f3-c3f2-40fa-86a8-83572ecb0112@yg1.ygkkk.dpdns.org:8880?encryption
 
 # ===== ZI =====
 
-vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@website-ab.goiramteam.ir:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9becGOM88wGghttnFHRNOkOaHzKTP9UrrOf13inK7Uo&sid=868b29d9904b3494&type=tcp&headerType=none#🇩🇪 ZI-DE-01
+vless://874b598e-a0cd-4f79-9a90-154e19975bd4@website-ab.goiramteam.ir:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9becGOM88wGghttnFHRNOkOaHzKTP9UrrOf13inK7Uo&sid=d30f9c7b629d3d46&type=tcp&headerType=none#🇩🇪 ZI-DE-01
 
-vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@rea.iramnew4.ir:2096?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=HSl6wrOj5X1KneRB3XUWpe4duZkazBXwZaV9LFSiaBA&sid=e83211c32dc5758c&type=tcp&headerType=none#🇩🇪 ZI-DE-02
+vless://874b598e-a0cd-4f79-9a90-154e19975bd4@rea.iramnew4.ir:2096?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=HSl6wrOj5X1KneRB3XUWpe4duZkazBXwZaV9LFSiaBA&sid=e83211c32dc5758c&type=tcp&headerType=none#🇩🇪 ZI-DE-02
 
-vless://f53e9ead-4dae-4576-9a20-889ab60d47c0@xhtnew.iramkemaxyu.ir:2053?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=Mme7n82lw_09noQ6K5CrG5uXjUb319tOlBZd5zTfvnQ&sid=47cc30550f5f7003&type=xhttp&path=%2F&mode=packet-up#🇹🇷 ZI-TR-01
+vless://874b598e-a0cd-4f79-9a90-154e19975bd4@xhtnew.iramkemaxyu.ir:2053?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=Mme7n82lw_09noQ6K5CrG5uXjUb319tOlBZd5zTfvnQ&sid=47cc30550f5f7003&type=xhttp&path=%2F&mode=packet-up#🇹🇷 ZI-TR-01
