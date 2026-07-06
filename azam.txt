@@ -30,13 +30,13 @@ vless://7dee0318-a046-4d7c-a920-e8099e08457e@plusgum.shop:443?encryption=mlkem76
 
 # ===== BPB =====
 
-vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@vip.akramgorji.workers.dev:443?encryption=none&security=tls&sni=VIP.AKRamGorJI.WORKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiVUtnNE95dHpJNFpLZUVTIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🇩🇪🧩 This one maybe not stable
+vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@vip.akramgorji.workers.dev:443?encryption=none&security=tls&sni=VIP.AKRamGorJI.WORKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiVUtnNE95dHpJNFpLZUVTIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🇩🇪 🧩BPB-DE-01
 
-vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@172.67.145.217:443?encryption=none&security=tls&sni=vip.AKRaMGOrJI.woRKers.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiWll0UjFha0VJeHp4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🇺🇸🧩 This one maybe not stable
+vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@172.67.145.217:443?encryption=none&security=tls&sni=vip.AKRaMGOrJI.woRKers.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiWll0UjFha0VJeHp4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🇺🇸 🧩BPB-US-01
 
 # ===== YONGGEKKK =====
 
-vless://56b1c033-cec5-46e8-9246-44c2e747d4a5@yg1.ygkkk.dpdns.org:8443?encryption=none&security=tls&sni=legend.akramgorji.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=legend.akramgorji.workers.dev&path=%2F%3Fed%3D2560#🇩🇪🦄 This one maybe not stable
+vless://56b1c033-cec5-46e8-9246-44c2e747d4a5@yg1.ygkkk.dpdns.org:8443?encryption=none&security=tls&sni=legend.akramgorji.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=legend.akramgorji.workers.dev&path=%2F%3Fed%3D2560#🇩🇪🦄 YGK-DE-01
 
 
 # ===== KHOSROW =====
