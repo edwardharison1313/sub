@@ -1,8 +1,25 @@
 #profile-title: ⚡Alireza⚡
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=1073741824000; expire=4102444800
+# ===== BPB =====
 
-# ===== MAIN SERVERS =====
+vless://4d5baffc-9e9f-4f1a-b7f1-c5ddaa273dbb@curly-tooth-79ea.yamanetwork.workers.dev:443?type=ws&encryption=none&path=%2FeyJqdW5rIjoiQWo2Wlo0NEkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560&host=curly-tooth-79ea.yamanetwork.workers.dev&security=tls&fp=chrome&alpn=http%2F1.1&sni=CurlY-TooTh-79ea.yaMANETWOrk.WOrKErs.Dev&allowInsecure=0#🇩🇪 🧩BPB-DE-01
+
+vless://4d5baffc-9e9f-4f1a-b7f1-c5ddaa273dbb@www.speedtest.net:443?type=ws&encryption=none&path=%2FeyJqdW5rIjoiV2V1NmV1cEl6UmkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560&host=curly-tooth-79ea.yamanetwork.workers.dev&security=tls&fp=chrome&alpn=http%2F1.1&sni=cUrLy-tOoTH-79Ea.yaMANeTwOrK.woRkerS.DEv&allowInsecure=0#🇩🇪 🧩BPB-DE-02
+
+vless://4d5baffc-9e9f-4f1a-b7f1-c5ddaa273dbb@188.114.97.3:443?type=ws&encryption=none&path=%2FeyJqdW5rIjoiZkpIZkFNV0ZValVHWnIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560&host=curly-tooth-79ea.yamanetwork.workers.dev&security=tls&fp=chrome&alpn=http%2F1.1&sni=CURly-toOtH-79ea.yamANEtwoRk.WorkErS.dEV&allowInsecure=0#🇩🇪 🧩BPB-DE-03
+
+vless://4d5baffc-9e9f-4f1a-b7f1-c5ddaa273dbb@188.114.96.3:443?type=ws&encryption=none&path=%2FeyJqdW5rIjoiemtQVVAzWjgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560&host=curly-tooth-79ea.yamanetwork.workers.dev&security=tls&fp=chrome&alpn=http%2F1.1&sni=cuRlY-TOoth-79eA.YamaNETWorK.wOrKErS.DEv&allowInsecure=0#🇩🇪 🧩BPB-DE-04
+
+
+# ===== YONGGEKKK =====
+
+vless://2a58f6f3-c3f2-40fa-86a8-83572ecb0112@yg1.ygkkk.dpdns.org:8443?encryption=none&security=tls&sni=hadi.edwardharison1313-a44.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=hadi.edwardharison1313-a44.workers.dev&path=%2F%3Fed%3D2560#🇩🇪🦄 YGK-DE-TLS-01
+
+vless://2a58f6f3-c3f2-40fa-86a8-83572ecb0112@yg1.ygkkk.dpdns.org:8880?encryption=none&security=none&type=ws&host=hadi.edwardharison1313-a44.workers.dev&path=%2F%3Fed%3D2560#🇩🇪 🦄 YGK-DE-WS-01
+
+
+# ===== KHOSROW =====
 
 vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.19.208.184:8443?type=ws&encryption=none&path=%2FRoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=interim.adaspoloandco.com&allowInsecure=0#🇫🇮👑 KH-FI-01-BEST
 vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.19.64.105:8443?type=ws&encryption=none&path=%2FRoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=interim.adaspoloandco.com&allowInsecure=0#🇫🇮👑 KH-FI-02-BEST
@@ -26,29 +43,3 @@ vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@188.114.99.160:8443?type=ws&encrypt
 vless://fec70375-29cf-46cf-b314-536c74feee94@104.19.208.184:8443?type=ws&encryption=none&path=%2Fadmin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ratatouille.adaspoloandco.com&allowInsecure=0#🇫🇷👑 KH-FR-01-BEST
 vless://fec70375-29cf-46cf-b314-536c74feee94@104.19.64.105:8443?type=ws&encryption=none&path=%2Fadmin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ratatouille.adaspoloandco.com&allowInsecure=0#🇫🇷👑 KH-FR-02-BEST
 
-
-# ===== BPB =====
-
-vless://4d5baffc-9e9f-4f1a-b7f1-c5ddaa273dbb@curly-tooth-79ea.yamanetwork.workers.dev:443?type=ws&encryption=none&path=%2FeyJqdW5rIjoiQWo2Wlo0NEkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560&host=curly-tooth-79ea.yamanetwork.workers.dev&security=tls&fp=chrome&alpn=http%2F1.1&sni=CurlY-TooTh-79ea.yaMANETWOrk.WOrKErs.Dev&allowInsecure=0#🇩🇪 🧩BPB-DE-01
-
-vless://4d5baffc-9e9f-4f1a-b7f1-c5ddaa273dbb@www.speedtest.net:443?type=ws&encryption=none&path=%2FeyJqdW5rIjoiV2V1NmV1cEl6UmkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560&host=curly-tooth-79ea.yamanetwork.workers.dev&security=tls&fp=chrome&alpn=http%2F1.1&sni=cUrLy-tOoTH-79Ea.yaMANeTwOrK.woRkerS.DEv&allowInsecure=0#🇩🇪 🧩BPB-DE-02
-
-vless://4d5baffc-9e9f-4f1a-b7f1-c5ddaa273dbb@188.114.97.3:443?type=ws&encryption=none&path=%2FeyJqdW5rIjoiZkpIZkFNV0ZValVHWnIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560&host=curly-tooth-79ea.yamanetwork.workers.dev&security=tls&fp=chrome&alpn=http%2F1.1&sni=CURly-toOtH-79ea.yamANEtwoRk.WorkErS.dEV&allowInsecure=0#🇩🇪 🧩BPB-DE-03
-
-vless://4d5baffc-9e9f-4f1a-b7f1-c5ddaa273dbb@188.114.96.3:443?type=ws&encryption=none&path=%2FeyJqdW5rIjoiemtQVVAzWjgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560&host=curly-tooth-79ea.yamanetwork.workers.dev&security=tls&fp=chrome&alpn=http%2F1.1&sni=cuRlY-TOoth-79eA.YamaNETWorK.wOrKErS.DEv&allowInsecure=0#🇩🇪 🧩BPB-DE-04
-
-
-# ===== YONGGEKKK =====
-
-vless://2a58f6f3-c3f2-40fa-86a8-83572ecb0112@yg1.ygkkk.dpdns.org:8443?encryption=none&security=tls&sni=hadi.edwardharison1313-a44.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=hadi.edwardharison1313-a44.workers.dev&path=%2F%3Fed%3D2560#🇩🇪🦄 YGK-DE-TLS-01
-
-vless://2a58f6f3-c3f2-40fa-86a8-83572ecb0112@yg1.ygkkk.dpdns.org:8880?encryption=none&security=none&type=ws&host=hadi.edwardharison1313-a44.workers.dev&path=%2F%3Fed%3D2560#🇩🇪 🦄 YGK-DE-WS-01
-
-
-# ===== ZI =====
-
-vless://874b598e-a0cd-4f79-9a90-154e19975bd4@website-ab.goiramteam.ir:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9becGOM88wGghttnFHRNOkOaHzKTP9UrrOf13inK7Uo&sid=d30f9c7b629d3d46&type=tcp&headerType=none#🇩🇪 ZI-DE-01
-
-vless://874b598e-a0cd-4f79-9a90-154e19975bd4@rea.iramnew4.ir:2096?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=HSl6wrOj5X1KneRB3XUWpe4duZkazBXwZaV9LFSiaBA&sid=e83211c32dc5758c&type=tcp&headerType=none#🇩🇪 ZI-DE-02
-
-vless://874b598e-a0cd-4f79-9a90-154e19975bd4@xhtnew.iramkemaxyu.ir:2053?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=Mme7n82lw_09noQ6K5CrG5uXjUb319tOlBZd5zTfvnQ&sid=47cc30550f5f7003&type=xhttp&path=%2F&mode=packet-up#🇹🇷 ZI-TR-01
