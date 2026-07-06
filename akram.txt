@@ -28,11 +28,15 @@ vless://fec70375-29cf-46cf-b314-536c74feee94@104.19.64.105:8443?type=ws&encrypti
 
 # ===== ZI =====
 
-vless://874b598e-a0cd-4f79-9a90-154e19975bd4@website-ab.goiramteam.ir:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9becGOM88wGghttnFHRNOkOaHzKTP9UrrOf13inK7Uo&sid=d30f9c7b629d3d46&type=tcp&headerType=none#🇩🇪 ZI-DE-01
+vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@91.193.58.157:2096?encryption=none&security=tls&sni=c.tiptop-3.top&insecure=0&allowInsecure=0&type=xhttp&host=c.tiptop-3.top&path=%2F&mode=auto#🇩🇪 ZI-DE-01
 
-vless://874b598e-a0cd-4f79-9a90-154e19975bd4@rea.iramnew4.ir:2096?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=HSl6wrOj5X1KneRB3XUWpe4duZkazBXwZaV9LFSiaBA&sid=e83211c32dc5758c&type=tcp&headerType=none#🇩🇪 ZI-DE-02
+vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@91.193.58.3:8443?encryption=none&security=tls&sni=c.tiptop-3.top&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=c.tiptop-3.top&path=%2F#🇩🇪 ZI-DE-02
 
-vless://874b598e-a0cd-4f79-9a90-154e19975bd4@xhtnew.iramkemaxyu.ir:2053?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=Mme7n82lw_09noQ6K5CrG5uXjUb319tOlBZd5zTfvnQ&sid=47cc30550f5f7003&type=xhttp&path=%2F&mode=packet-up#🇹🇷 ZI-TR-01
+vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@103.169.142.106:8443?encryption=none&security=tls&sni=a.tiptop-3.top&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=a.tiptop-3.top&path=%2F#🇫🇮 ZI-FI-01
+
+vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@45.130.125.36:2096?encryption=none&security=tls&sni=b.tiptop-2.top&insecure=0&allowInsecure=0&type=xhttp&host=b.tiptop-2.top&path=%2F&mode=auto&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F116.0.0.0%20Mobile%20Safari%2F537.36%22%7D%7D#🇳🇱 ZI-NL-01
+
+vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@89.116.46.68:2053?encryption=mlkem768x25519plus.native.0rtt.8uHJuEETKPgWxe4GpgSuE9NuZZ_o4uzpNEo522QfUSY&security=tls&sni=us.tiptop-1.top&insecure=0&allowInsecure=0&type=xhttp&host=us.tiptop-1.top&path=%2F&mode=auto#🇺🇸 ZI-US-01
 
 
 # ===== Badban =====
