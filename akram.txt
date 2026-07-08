@@ -27,18 +27,6 @@ vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@abnabatchoobi.online:443?encryption
 
 vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@plusgum.shop:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qiwendiqwn.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BADBAN-DE-33-SJSP6
 
-
-# ===== BPB =====
-
-vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@vip.akramgorji.workers.dev:443?encryption=none&security=tls&sni=VIP.AKRamGorJI.WORKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiVUtnNE95dHpJNFpLZUVTIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🇩🇪🧩 This one maybe not stable
-
-vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@172.67.145.217:443?encryption=none&security=tls&sni=vip.AKRaMGOrJI.woRKers.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiWll0UjFha0VJeHp4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🇺🇸🧩 This one maybe not stable
-
-# ===== YONGGEKKK =====
-
-vless://56b1c033-cec5-46e8-9246-44c2e747d4a5@yg1.ygkkk.dpdns.org:8443?encryption=none&security=tls&sni=legend.akramgorji.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=legend.akramgorji.workers.dev&path=%2F%3Fed%3D2560#🇩🇪🦄 This one maybe not stable
-
-
 # ===== KHOSROW =====
 
 vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.19.208.184:8443?type=ws&encryption=none&path=%2FRoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=interim.adaspoloandco.com&allowInsecure=0#🇫🇮 KH-FI-01
