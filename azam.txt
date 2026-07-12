@@ -16,23 +16,25 @@ vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@103.169.142.12:2053?encryption=mlke
 
 # ===== Badban =====
 
-vless://7dee0318-a046-4d7c-a920-e8099e08457e@arosak.shop:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BADBAN-DE-33
+vless://7dee0318-a046-4d7c-a920-e8099e08457e@mashinbazishop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇬🇧 BADBAN-UK-35
 
-vless://7dee0318-a046-4d7c-a920-e8099e08457e@plusgum.shop:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BADBAN-DE-33-SJSP6
+vless://7dee0318-a046-4d7c-a920-e8099e08457e@abnabatchoobi.online:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqwedioqwnmdoemqw.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BADBAN-FR-36
 
-vless://7dee0318-a046-4d7c-a920-e8099e08457e@abnabatchoobi.online:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=iwqedoiqwnadfsqipowner.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BADBAN-FR-36
+vless://7dee0318-a046-4d7c-a920-e8099e08457e@seaworkshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qiwendiqwn.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BADBAN-FR-04
 
-vless://7dee0318-a046-4d7c-a920-e8099e08457e@mashinbazi.shop:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqwedioqwnmdoemqw.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇬🇧 BADBAN-UK-35
+vless://7dee0318-a046-4d7c-a920-e8099e08457e@plusgumshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqwedioqwnmdoemqw.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BADBAN-DE-33-SJSP6
 
-vless://7dee0318-a046-4d7c-a920-e8099e08457e@seawork.online:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qiwendiqwn.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇬🇧 BADBAN-UK-03
+vless://7dee0318-a046-4d7c-a920-e8099e08457e@plusgumxyz.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=mmniondqwoed.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BADBAN-DE-31-SJPX2
 
-vless://7dee0318-a046-4d7c-a920-e8099e08457e@185.143.233.5:80?encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&security=none&type=ws&host=de1-f96a03cd07-loadbalancer.apps.ir-central1.arvancaas.ir&path=%2Fgamescore%3Fed%3D128#🇩🇪 BADBAN-PS-DE-01
+vless://7dee0318-a046-4d7c-a920-e8099e08457e@arosakshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=iwqedoiqwnadfsqipowner.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BADBAN-DE-33
 
-vless://7dee0318-a046-4d7c-a920-e8099e08457e@185.143.233.5:80?encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&security=none&type=ws&host=de2-f96a03cd07-loadbalancer.apps.ir-central1.arvancaas.ir&path=%2Fgamescore%3Fed%3D128#🇩🇪 BADBAN-PS-DE-02
+vless://7dee0318-a046-4d7c-a920-e8099e08457e@mashinbaziwiki.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BADBAN-DE-31
 
-vless://7dee0318-a046-4d7c-a920-e8099e08457e@185.143.233.5:80?encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&security=none&type=ws&host=fr1-f96a03cd07-loadbalancer.apps.ir-central1.arvancaas.ir&path=%2Fgamescore%3Fed%3D128#🇫🇷 BADBAN-PS-FR-01
+vless://7dee0318-a046-4d7c-a920-e8099e08457e@arosakshopxyz.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=mmniondqwoed.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BADBAN-DE-32
 
-vless://7dee0318-a046-4d7c-a920-e8099e08457e@185.143.233.5:80?encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&security=none&type=ws&host=uk1-f96a03cd07-loadbalancer.apps.ir-central1.arvancaas.ir&path=%2Fgamescore%3Fed%3D128#🇬🇧 BADBAN-PS-UK-01
+vless://7dee0318-a046-4d7c-a920-e8099e08457e@seaworkonline.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=iwqedoiqwnadfsqipowner.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇬🇧 BADBAN-UK-03
+
+vless://7dee0318-a046-4d7c-a920-e8099e08457e@seaworkblog.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BADBAN-FR-05
 
 # ===== BPB =====
 
