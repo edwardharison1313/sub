@@ -1,4 +1,4 @@
-#profile-title: ⚡Akram⚡
+#profile-title: 💎 Akram 💎
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=1073741824000; expire=4102444800
 
