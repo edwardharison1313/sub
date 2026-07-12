@@ -4,15 +4,15 @@
 
 # ===== ZI =====
 
-vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@91.193.58.17:2096?encryption=none&security=tls&sni=c.tiptop-3.top&insecure=0&allowInsecure=0&type=xhttp&host=c.tiptop-3.top&path=%2F&mode=auto#🇩🇪 ZI-DE-01
+vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@188.114.97.25:2096?encryption=none&security=tls&sni=c.tiptop-3.top&insecure=0&allowInsecure=0&type=xhttp&host=c.tiptop-3.top&path=%2F&mode=auto#🇩🇪 ZI-DE-01
 
-vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@89.116.180.125:8443?encryption=none&security=tls&sni=c.tiptop-3.top&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=c.tiptop-3.top&path=%2F#🇩🇪 ZI-DE-02
+vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@141.193.213.10:8443?encryption=none&security=tls&sni=c.tiptop-3.top&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=c.tiptop-3.top&path=%2F#🇩🇪 ZI-DE-02
 
 vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@45.130.125.8:8443?encryption=none&security=tls&sni=a.tiptop-3.top&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=a.tiptop-3.top&path=%2F#🇫🇮 ZI-FI-01
 
-vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@154.92.9.247:2096?encryption=none&security=tls&sni=b.tiptop-2.top&insecure=0&allowInsecure=0&type=xhttp&host=b.tiptop-2.top&path=%2F&mode=auto&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36%22%7D%7D#🇳🇱 ZI-NL-01
+vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@45.85.118.93:2096?encryption=none&security=tls&sni=b.tiptop-2.top&insecure=0&allowInsecure=0&type=xhttp&host=b.tiptop-2.top&path=%2F&mode=auto&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20SamsungBrowser%2F25.0%20Chrome%2F121.0.0.0%20Mobile%20Safari%2F537.36%22%7D%7D#🇳🇱 ZI-NL-01
 
-vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@103.169.142.12:2053?encryption=mlkem768x25519plus.native.0rtt.8uHJuEETKPgWxe4GpgSuE9NuZZ_o4uzpNEo522QfUSY&security=tls&sni=us.tiptop-1.top&insecure=0&allowInsecure=0&type=xhttp&host=us.tiptop-1.top&path=%2F&mode=auto#🇺🇸 ZI-US-01
+vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@192.0.63.71:2053?encryption=mlkem768x25519plus.native.0rtt.8uHJuEETKPgWxe4GpgSuE9NuZZ_o4uzpNEo522QfUSY&security=tls&sni=us.tiptop-1.top&insecure=0&allowInsecure=0&type=xhttp&host=us.tiptop-1.top&path=%2F&mode=auto#🇺🇸 ZI-US-01
 
 # ===== Badban =====
 
