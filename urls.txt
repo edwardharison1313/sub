@@ -3,6 +3,20 @@
 #subscription-userinfo: upload=0; download=0; total=1073741824000; expire=4102444800
 
 
+# ===== BAD =====
+
+vless://2fa19268-dd32-446c-a6e4-b06a8219007c@abnabatchoobi.online:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 🆘BAD-FR-36
+
+vless://2fa19268-dd32-446c-a6e4-b06a8219007c@abnabatchoobi.online:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 🆘BAD-FR-36
+vless://2fa19268-dd32-446c-a6e4-b06a8219007c@arosakshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 🆘BAD-DE-33
+
+vless://2fa19268-dd32-446c-a6e4-b06a8219007c@plusgumshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 🆘BAD-DE-33-SJSP6
+
+vless://2fa19268-dd32-446c-a6e4-b06a8219007c@mashinbazishop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qiwendiqwn.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇬🇧 🆘BAD-UK-35
+
+vless://2fa19268-dd32-446c-a6e4-b06a8219007c@seaworkshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 🆘BAD-FR-04-10
+
+
 # ===== X4G =====
 
 vless://ce893a2b-a964-e11f-cf02-72e008037c7e@x4g-production-ab48.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-ab48.up.railway.app&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=x4g-production-ab48.up.railway.app&path=%2Fxhttp-siz10%2Fstream-up%2Fce893a2b-a964-e11f-cf02-72e008037c7e&mode=stream-up#🇺🇸 X4G-XHTTP-STREAM
