@@ -30,15 +30,25 @@ vless://56b1c033-cec5-46e8-9246-44c2e747d4a5@yg1.ygkkk.dpdns.org:8443?encryption
 
 # ===== BADBAN =====
 
-vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@abnabatchoobi.online:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqiwnefdoqwiem.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BAD-FR-36
+vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@mashinbaziwiki.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqwedioqwnmdoemqw.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BAD-DE-31
 
-vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@seaworkblog.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqwedioqwnmdoemqw.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BAD-FR-05-03
+vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@seaworking1.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqwedioqwnmdoemqw.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇬🇧 BAD-UK-03-11
 
-vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@arosakshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BAD-DE-33
+vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@arosakshopxyz.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=mmniondqwoed.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BAD-DE-32
 
-vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@plusgumshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=iwqedoiqwnadfsqipowner.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BAD-DE-33-SJSP6
+vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@arosakshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqwedioqwnmdoemqw.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BAD-DE-33
+
+vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@seaworkshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qiwendiqwn.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BAD-FR-04-10
 
 vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@mashinbazishop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇬🇧 BAD-UK-35
+
+vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@plusgumshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BAD-DE-33-SJSP6
+
+vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@abnabatchoobi.online:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BAD-FR-36
+
+vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@plusgumxyz5.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BAD-DE-31-SJPX2
+
+vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@seaworkblog.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BAD-FR-05-03
 
 # ===== KHOSROW =====
 
