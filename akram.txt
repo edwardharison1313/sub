@@ -69,5 +69,5 @@ vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@mashinbazishop.lampshop.org:443?enc
 
 =========================================================================================================================================================================================
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdTBIM3ViSEZpYnVBd2ZZQ0hPVTJkRTRNLXNxZ2ZXUA@127.0.0.1:1080?#VIP%20Sub%20Akram
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdTBIM3ViSEZpYnVBd2ZZQ0hPVTJkRTRNLXNxZ2ZXUA@0.0.0.0:1080?#VIP%20Sub%20Akram
 
