@@ -36,28 +36,30 @@ vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@3c538427c88ddfd3.neshatinjafood.ir:
 
 # ===== ZI =====
 
-vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@192.0.63.71:443?encryption=none&security=tls&sni=us.tiptop-1.top&insecure=0&allowInsecure=0&type=xhttp&host=us.tiptop-1.top&path=%2F&mode=auto#🇺🇸 ZI-US-01
+vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@192.0.63.71:443?encryption=none&security=tls&sni=us.tiptop-1.top&insecure=0&allowInsecure=0&type=xhttp&host=us.tiptop-1.top&path=%2F&mode=auto#🇺🇸 ZING-US-01
 
-vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@188.114.97.25:2096?encryption=none&security=tls&sni=c.tiptop-3.top&insecure=0&allowInsecure=0&type=xhttp&host=c.tiptop-3.top&path=%2F&mode=auto#🇩🇪 ZI-DE-01
+vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@188.114.97.25:2096?encryption=none&security=tls&sni=c.tiptop-3.top&insecure=0&allowInsecure=0&type=xhttp&host=c.tiptop-3.top&path=%2F&mode=auto#🇩🇪 ZING-DE-01
 
-vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@141.193.213.10:8443?encryption=none&security=tls&sni=c.tiptop-3.top&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=c.tiptop-3.top&path=%2F#🇩🇪 ZI-DE-02
+vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@141.193.213.10:8443?encryption=none&security=tls&sni=c.tiptop-3.top&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=c.tiptop-3.top&path=%2F#🇩🇪 ZING-DE-02
 
-vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@45.130.125.8:8443?encryption=none&security=tls&sni=a.tiptop-3.top&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=a.tiptop-3.top&path=%2F#🇫🇮 ZI-FI-01
+vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@45.130.125.8:8443?encryption=none&security=tls&sni=a.tiptop-3.top&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=a.tiptop-3.top&path=%2F#🇫🇮 ZING-FI-01
 
-vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@uae.tiptop-1.top:8443?encryption=none&security=tls&sni=uae.tiptop-1.top&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇦🇪 ZI-AE-01
+vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@uae.tiptop-1.top:8443?encryption=none&security=tls&sni=uae.tiptop-1.top&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇦🇪 ZING-AE-01
 
 
 # ===== BADBAN =====
 
-vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@arosakshopxyz.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=mmniondqwoed.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BAD-DE-32
+vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@arosakshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqiwnefdoqwiem.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BAD-DE-33
 
-vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@arosakshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqwedioqwnmdoemqw.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BAD-DE-33
+vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@arosakshopxyz.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqiwnefdoqwiem.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BAD-DE-32
 
-vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@plusgumshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BAD-DE-33-SJSP6
+vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@plusgumshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BAD-DE-33-SJSP6
 
-vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@abnabatchoobi.online:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BAD-FR-36
+vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@mashinbazishop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇬🇧 BAD-UK-35
 
-vless://de5d8f17-db4c-4ffb-9624-b7403e817d2e@mashinbazishop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇬🇧 BAD-UK-35
+vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@abnabatchoobi.online:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BAD-FR-36
+
+vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@mashinbaziwiki.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BAD-DE-31
 
 
 =========================================================================================================================================================================================
