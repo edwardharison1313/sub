@@ -51,33 +51,19 @@ vless://e7f0288d-8d28-460e-a7b0-c32cec0a9555@www.speedtest.net:443?encryption=no
 
 # ===== KHOSROW =====
 
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@188.114.97.4:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=%2FRoBeRt#🇫🇮 KH-FI-01
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.19.208.184:8443?type=ws&encryption=none&path=%2FRoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=interim.adaspoloandco.com&allowInsecure=0#🇫🇮 KH-FI-01
 
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.26.14.85:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=%2FRoBeRt#🇫🇮 KH-FI-02
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@162.159.253.41:8443?type=ws&encryption=none&path=%2FRoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=interim.adaspoloandco.com&allowInsecure=0#🇫🇮 KH-FI-02
 
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#🇩🇪 KH-DE-01
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?type=ws&encryption=none&path=%2FGOrbEh&host=rubifen.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&sni=rubifen.adaspoloandco.com&allowInsecure=0#🇩🇪 KH-DE-01
 
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#🇩🇪 KH-DE-02
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@188.114.97.6:2087?type=ws&encryption=none&path=%2Fdownload.php&host=amphetamine.adaspoloandco.com&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=amphetamine.adaspoloandco.com#🇫🇮 KH-AMP-01
 
-vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@188.114.97.4:2087?encryption=none&security=tls&sni=amphetamine.adaspoloandco.com&fp=firefox&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=amphetamine.adaspoloandco.com&path=%2Fdownload.php#🇫🇮 KH-AMP-01
+vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@188.114.97.4:8443?type=ws&encryption=none&path=%2FRizZrAcK&host=focalin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=focalin.adaspoloandco.com#🇫🇮 KH-FOC-01
 
-vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.26.14.85:2087?encryption=none&security=tls&sni=amphetamine.adaspoloandco.com&fp=firefox&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=amphetamine.adaspoloandco.com&path=%2Fdownload.php#🇫🇮 KH-AMP-02
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@188.114.97.4:8443?type=ws&encryption=none&path=%2Fdownload.php&host=chopin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=chopin.adaspoloandco.com#🇵🇱 KH-PL-01
 
-vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@188.114.97.4:8443?encryption=none&security=tls&sni=focalin.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=focalin.adaspoloandco.com&path=%2FRizZrAcK#🇫🇮 KH-FOC-01
+vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@188.114.97.4:8443?type=ws&encryption=none&path=%2Fuploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=maple.adaspoloandco.com#🇨🇦 KH-CA-01
 
-vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@104.26.14.85:8443?encryption=none&security=tls&sni=focalin.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=focalin.adaspoloandco.com&path=%2FRizZrAcK#🇫🇮 KH-FOC-02
-
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@188.114.97.4:8443?encryption=none&security=tls&sni=chopin.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=chopin.adaspoloandco.com&path=%2Fdownload.php#🇵🇱 KH-PL-01
-
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?encryption=none&security=tls&sni=chopin.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=chopin.adaspoloandco.com&path=%2Fdownload.php#🇵🇱 KH-PL-02
-
-vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@188.114.97.4:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=maple.adaspoloandco.com&path=%2Fuploader.php#🇨🇦 KH-CA-01
-
-vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@104.26.14.85:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=maple.adaspoloandco.com&path=%2Fuploader.php#🇨🇦 KH-CA-02
-
-vless://fec70375-29cf-46cf-b314-536c74feee94@188.114.97.4:8443?encryption=none&security=tls&sni=ratatouille.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php#🇫🇷 KH-FR-01
-
-vless://fec70375-29cf-46cf-b314-536c74feee94@104.26.14.85:8443?encryption=none&security=tls&sni=ratatouille.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php#🇫🇷 KH-FR-02
-
-vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@188.114.97.4:443?encryption=none&security=tls&sni=baguette.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=baguette.adaspoloandco.com&path=%2FGoorBah#🇫🇷 KH-BG-01
+vless://fec70375-29cf-46cf-b314-536c74feee94@188.114.97.4:8443?type=ws&encryption=none&path=%2Fadmin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ratatouille.adaspoloandco.com#🇫🇷 KH-FR-01
 
