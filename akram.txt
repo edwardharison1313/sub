@@ -9,29 +9,21 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdTBIM3ViSEZpYnVBd2ZZQ0hPVTJkRTRNLXNxZ2ZXUA@
 
 # ===== UPI =====
 
-vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@cdn1.portalcode.ir:8443?encryption=none&security=tls&sni=ae1689defbf4c9ba.rainzone.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=ae1689defbf4c9ba.rainzone.ir&path=%2F&mode=auto#🇫🇷 UPI-FR-01
+vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@cdn1.portalcode.ir:2083?encryption=none&security=tls&sni=8c8774aa6e205d1d.rainzone.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=8c8774aa6e205d1d.rainzone.ir&path=%2F&mode=auto#🇫🇷 UPI-FR-01
 
-vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@sp.foot8all.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=abbb6e5e07cdf34b&type=grpc#🇪🇸 UPI-ES-01
+vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@sp.foot8all.ir:443?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=db418071da7fcb7b&type=grpc#🇪🇸 UPI-ES-01
 
-vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@suop1.foot8all.ir:50567?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=9e3f5e25c17d2615&type=tcp&headerType=none#🇸🇪 UPI-SE-01
+vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@sw.foot8all.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=184a6838386d384e&type=tcp&headerType=none#🇸🇪 UPI-SE-01
 
-vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@7e33bfed2175b3b1.mbcloudy.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=f46de42b38cf0a64&type=grpc#🇸🇪 UPI-SE-02
+vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@dbb508886c9857cd.mbcloudy.ir:443?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=d5e4b75249e38cbb&type=grpc#🇸🇪 UPI-SE-02
 
-vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@331dd079732ec5b3.mbcloudynias.ir:50567?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=ios&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=9af7c9c0334675be&type=tcp&headerType=none#🇫🇮 UPI-FI-01
+vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@95dca10825755015.mbcloudynias.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=ios&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=545df9caf95f7cd8&type=tcp&headerType=none#🇫🇮 UPI-FI-01
 
-vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@7fa4eac4526297d0.mechanicir.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=firefox&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=abbb6e5e07cdf34b&type=grpc#🇫🇷 UPI-FR-02
+vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@d942810f1b65ff17.nimaghaffarzadeh.ir:443?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=2619d1af5cad99b0&type=grpc#🇩🇪 UPI-DE-01
 
-vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@frws1.foot8all.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=firefox&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=b7c8604c2d6dbfd6&type=grpc#🇫🇷 UPI-FR-03
+vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@5b66a1c411c025c3.mbmovietime.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=9b98825681aba023&type=tcp&headerType=none#🇩🇪 UPI-DE-02
 
-vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@7e05556af7156ebe.nimaghaffarzadeh.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=2716d84d89b5eadc&type=grpc#🇩🇪 UPI-DE-01
-
-vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@5c217d97fb7e8d44.jobwebs.ir:50567?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=qq&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=9b98825681aba023&type=tcp&headerType=none#🇩🇪 UPI-DE-02
-
-vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@31bb042a9b1de2f0.mbmovietime.ir:50567?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=9b98825681aba023&type=tcp&headerType=none#🇩🇪 UPI-DE-03
-
-vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@nlser1.neshatinjafood.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=qq&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=2619d1af5cad99b0&type=grpc#🇳🇱 UPI-NL-01
-
-vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@3c538427c88ddfd3.neshatinjafood.ir:34027?encryption=none&security=reality&sni=wildcard.msn.com&fp=ios&pbk=9s3yEketDxPnrIxtN-KUdfVJ_p3gfOpcr_0abD4vSFw&sid=0e84472c5bfccf3c&type=tcp&headerType=none#🇳🇱 UPI-NL-02
+vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@a01187a75bada0b2.neshatinjafood.ir:443?encryption=none&security=reality&sni=msn.com&fp=ios&pbk=9s3yEketDxPnrIxtN-KUdfVJ_p3gfOpcr_0abD4vSFw&sid=0a50ba3533f150b0&type=tcp&headerType=none#🇳🇱 UPI-NL-01
 
 
 # ===== ZI =====
