@@ -45,6 +45,12 @@ vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@abnabatchoobi.online:443?encryption
 
 vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@arosakshopxyz.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=iwqedoiqwnadfsqipowner.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BAD-DE-32
 
+# ===== BPB =====
+
+vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@vip.akramgorji.workers.dev:443?encryption=none&security=tls&sni=vip.akRamgorJI.WoRkeRS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiYzlGYjNmMm0xayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#🇩🇪 🧩 BPB-DE-01
+
+vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@www.speedtest.net:443?encryption=none&security=tls&sni=Vip.akrAmgOrjI.workeRS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiRWs5MUJWVXpxZEoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0%3D%3Fed%3D2560#🇺🇸 🧩 BPB-US-01
+
 
 =========================================================================================================================================================================================
 
