@@ -17,7 +17,11 @@ vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@f209e02cf6c47860.neshatinjafood.ir:
 
 vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@736fe5d49bad71d7.mbcloudy.ir:23857?encryption=none&security=reality&sni=icloud.com&fp=qq&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=abbb6e5e07cdf34b&type=grpc#🇸🇪 UPI-SE-01
 
+vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@sw.foot8all.ir:80?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=9b98825681aba023&type=tcp&headerType=none#🇸🇪 UPI-SE-02
+
 vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@eb120e366f4a2e73.nimaghaffarzadeh.ir:23857?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=2716d84d89b5eadc&type=grpc#🇩🇪 UPI-DE-01
+
+vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@de2bbe0023d55361.mbmovietime.ir:80?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=c39acc8cb9481d24&type=tcp&headerType=none#🇩🇪 UPI-DE-02
 
 
 # ===== ZI =====
@@ -26,11 +30,15 @@ vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@91.193.58.120:2096?encryption=none&
 
 vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@141.193.213.10:8443?encryption=none&security=tls&sni=c.tiptop-3.top&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=c.tiptop-3.top&path=%2F#🇩🇪 ZI-DE-02
 
-vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@103.169.142.14:8443?encryption=none&security=tls&sni=a.tiptop-3.top&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=a.tiptop-3.top&path=%2F#🇫🇮 ZI-FI-01
+vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@89.116.180.56:8443?encryption=none&security=tls&sni=a.tiptop-3.top&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=a.tiptop-3.top&path=%2F#🇫🇮 ZI-FI-01
 
 vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@212.104.128.112:2096?encryption=none&security=tls&sni=a.tiptop-3.top&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=a.tiptop-3.top&path=%2F&mode=auto#🇫🇮 ZI-FI-02
 
 vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@192.0.63.71:2053?encryption=mlkem768x25519plus.native.0rtt.8uHJuEETKPgWxe4GpgSuE9NuZZ_o4uzpNEo522QfUSY&security=tls&sni=us.tiptop-1.top&insecure=0&allowInsecure=0&type=xhttp&host=us.tiptop-1.top&path=%2F&mode=auto#🇺🇸 ZI-US-01
+
+vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@uae.tiptop-1.top:8443?encryption=none&security=tls&sni=uae.tiptop-1.top&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇦🇪 ZI-UAE-01
+
+vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@tr-2.tiptop-1.top:8443?encryption=none&security=tls&sni=tr-2.tiptop-1.top&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇹🇷 ZI-TR-01
 
 
 # ===== BADBAN =====
@@ -50,7 +58,6 @@ vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@arosakshopxyz.lampshop.org:443?encr
 vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@vip.akramgorji.workers.dev:443?encryption=none&security=tls&sni=vip.akRamgorJI.WoRkeRS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiYzlGYjNmMm0xayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#🇩🇪 🧩 BPB-DE-01
 
 vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@www.speedtest.net:443?encryption=none&security=tls&sni=Vip.akrAmgOrjI.workeRS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiRWs5MUJWVXpxZEoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0%3D%3Fed%3D2560#🇺🇸 🧩 BPB-US-01
-
 
 =========================================================================================================================================================================================
 
