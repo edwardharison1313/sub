@@ -7,19 +7,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdTBIM3ViSEZpYnVBd2ZZQ0hPVTJkRTRNLXNxZ2ZXUA@
 
 =========================================================================================================================================================================================
 
-# ===== UPI =====
-
-vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@cdn1.portalcode.ir:2083?encryption=none&security=tls&sni=f5b3cc7fb087fdfa.rainzone.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=f5b3cc7fb087fdfa.rainzone.ir&path=%2F&mode=auto#🇫🇷 UPI-FR-01
-
-vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@sp.foot8all.ir:443?encryption=none&security=reality&sni=wildcard.msn.com&fp=ios&pbk=9s3yEketDxPnrIxtN-KUdfVJ_p3gfOpcr_0abD4vSFw&sid=0e84472c5bfccf3c&type=tcp&headerType=none#🇪🇸 UPI-ES-01
-
-vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@38ed0de1c2d9cf91.neshatinjafood.ir:443?encryption=none&security=reality&sni=msn.com&fp=ios&pbk=9s3yEketDxPnrIxtN-KUdfVJ_p3gfOpcr_0abD4vSFw&sid=278a44a65abeeb40&type=tcp&headerType=none#🇳🇱 UPI-NL-01
-
-vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@62b400a9c0c168e2.jobwebs.ir:80?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=qq&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=9e3f5e25c17d2615&type=tcp&headerType=none#🇩🇪 UPI-DE-01
-
-vless://9e114b54-bf18-4b7e-bcff-88a3eba3747a@sw.foot8all.ir:80?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=545df9caf95f7cd8&type=tcp&headerType=none#🇸🇪 UPI-SE-01
-
-
 # ===== ZI =====
 
 vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@91.193.58.120:2096?encryption=none&security=tls&sni=c.tiptop-3.top&insecure=0&allowInsecure=0&type=xhttp&host=c.tiptop-3.top&path=%2F&mode=auto#🇩🇪 ZI-DE-01
@@ -59,9 +46,15 @@ vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@plusgumxyz4.lampshop.org:443?encryp
 
 # ===== BPB =====
 
-vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@vip.akramgorji.workers.dev:443?encryption=none&security=tls&sni=vip.akRamgorJI.WoRkeRS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiYzlGYjNmMm0xayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#🇩🇪 🧩 BPB-DE-01
+vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@vip.akramgorji.workers.dev:443?encryption=none&security=tls&sni=vip.akRamGORJI.WoRkeRS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiYzlGYjNmMm0xayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#🇩🇪🧩BPB-DE-01
 
-vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@www.speedtest.net:443?encryption=none&security=tls&sni=Vip.akrAmgOrjI.workeRS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiRWs5MUJWVXpxZEoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0%3D%3Fed%3D2560#🇺🇸 🧩 BPB-US-01
+vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@188.114.96.3:443?encryption=none&security=tls&sni=viP.aKRamGOrJi.wORkeRS.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiakxyNzk5dGlLazFjIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🇩🇪🧩BPB-DE-02
+
+vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@vip.akramgorji.workers.dev:2096?encryption=none&security=tls&sni=vIP.akRaMGORjI.wORKeRs.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiUk1UUms4WXJMeFFIIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🇩🇪🧩BPB-DE-03
+
+vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@www.speedtest.net:443?encryption=none&security=tls&sni=Vip.akrAmgOrjI.workeRS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiRWs5MUJWVXpxZEoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0%3D%3Fed%3D2560#🇺🇸🧩BPB-US-01
+
+vless://940f6197-61e6-4ae6-995f-bb0610fde8f8@www.speedtest.net:2096?encryption=none&security=tls&sni=vIp.AKraMgOrJI.wORkErS.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vip.akramgorji.workers.dev&path=%2FeyJqdW5rIjoiVjJXYURKbGNjOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#🇺🇸🧩BPB-US-02
 
 =========================================================================================================================================================================================
 
