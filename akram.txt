@@ -7,17 +7,18 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdTBIM3ViSEZpYnVBd2ZZQ0hPVTJkRTRNLXNxZ2ZXUA@
 
 =========================================================================================================================================================================================
 
-# ===== ZI =====
+# ===== XS =====
 
-vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@141.193.213.11:2096?encryption=none&security=tls&sni=c.tiptop-3.top&insecure=0&allowInsecure=0&type=xhttp&host=c.tiptop-3.top&path=%2F&mode=auto#🇩🇪 ZI-DE-01
+vless://d8e54ba4-9e77-44d0-b17d-6ab86cc1db08@rtims.vdioshop.com:4658?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇹🇷%20XS-TR-01
 
-vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@141.193.213.10:8443?encryption=none&security=tls&sni=c.tiptop-3.top&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=c.tiptop-3.top&path=%2F#🇩🇪 ZI-DE-02
+vless://d8e54ba4-9e77-44d0-b17d-6ab86cc1db08@pirtyds.vdioshop.com:4658?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇫🇮%20XS-FI-01
 
-vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@212.104.128.112:2096?encryption=none&security=tls&sni=a.tiptop-3.top&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=a.tiptop-3.top&path=%2F&mode=auto#🇫🇮 ZI-FI-01
+vless://d8e54ba4-9e77-44d0-b17d-6ab86cc1db08@scnxm.vdioshop.com:4658?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇩🇪%20XS-DE-01
 
-vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@45.85.118.99:8443?encryption=none&security=tls&sni=a.tiptop-3.top&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=a.tiptop-3.top&path=%2F#🇫🇮 ZI-FI-02
+vless://d8e54ba4-9e77-44d0-b17d-6ab86cc1db08@sdojap.vdioshop.com:4658?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇳🇱%20XS-NL-01
 
-vless://1a8de34a-52f6-4a44-ba3c-d59557f4d551@uae.tiptop-1.top:8443?encryption=none&security=tls&sni=uae.tiptop-1.top&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇦🇪 ZI-UAE-01
+vless://d8e54ba4-9e77-44d0-b17d-6ab86cc1db08@fdsjkgb.vdioshop.com:4658?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇸🇪%20XS-SE-01
+
 
 # ===== BADBAN =====
 
