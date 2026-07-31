@@ -40,35 +40,12 @@ vless://7dee0318-a046-4d7c-a920-e8099e08457e@mashinbaziwiki.lampshop.org:443?enc
 
 vless://7dee0318-a046-4d7c-a920-e8099e08457e@seaworkblog.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqwedioqwnmdoemqw.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BA-FR-5-3
 
-
 # ===== BPB =====
 
 vless://e7f0288d-8d28-460e-a7b0-c32cec0a9555@wandering-water-ac02.vps-monitoring13.workers.dev:443?encryption=none&security=tls&sni=waNDERInG-watEr-ac02.Vps-moniToRinG13.WorKERs.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=wandering-water-ac02.vps-monitoring13.workers.dev&path=%2FeyJqdW5rIjoiWUJHbHRGamxXNmJPTlJEYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#🇩🇪 🧩BPB-DE-01
 
 vless://e7f0288d-8d28-460e-a7b0-c32cec0a9555@www.speedtest.net:443?encryption=none&security=tls&sni=wANdErIng-watER-AC02.vPS-MonitORINg13.wORKErs.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=wandering-water-ac02.vps-monitoring13.workers.dev&path=%2FeyJqdW5rIjoiWDFTaTNYbXAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#🇩🇪 🧩BPB-DE-02
 
-
-# ===== KHOSROW =====
-
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@188.114.97.4:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=%2FRoBeRt#🇫🇮 KH-FI-01
-
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#🇩🇪 KH-DE-01
-
-vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@188.114.97.4:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=maple.adaspoloandco.com&path=%2Fuploader.php#🇨🇦 KH-CA-01
-
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@188.114.97.4:8443?encryption=none&security=tls&sni=chopin.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=chopin.adaspoloandco.com&path=%2Fdownload.php#🇵🇱 KH-PL-01
-
-vless://fec70375-29cf-46cf-b314-536c74feee94@188.114.97.4:8443?encryption=none&security=tls&sni=ratatouille.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php#🇫🇷 KH-FR-01
-
-vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@188.114.97.4:443?encryption=none&security=tls&sni=baguette.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=baguette.adaspoloandco.com&path=%2FGoorBah#🇫🇷 KH-FR-02
-
-vless://d171491a-9995-46ce-8719-f64463ca3a45@188.114.97.4:443?encryption=none&security=tls&sni=sertraline.adaspoloandco.com&fp=chrome&alpn=http%2F1.1%2Ch2&insecure=0&allowInsecure=0&type=ws&host=sertraline.adaspoloandco.com&path=%2Fdownload.php#🇫🇮 KH-FI-02
-
-vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@188.114.97.4:8443?encryption=none&security=tls&sni=focalin.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=focalin.adaspoloandco.com&path=%2FRizZrAcK#🇫🇮 KH-FI-03
-
-vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@188.114.97.4:2087?encryption=none&security=tls&sni=amphetamine.adaspoloandco.com&fp=firefox&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=amphetamine.adaspoloandco.com&path=%2Fdownload.php#🇫🇮 KH-FI-04
-
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@188.114.99.160:8443?encryption=none&security=tls&sni=milan.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=milan.adaspoloandco.com&path=%2FRoBeRt#🇮🇹 KH-IT-01
 
 =========================================================================================================================================================================================
 
