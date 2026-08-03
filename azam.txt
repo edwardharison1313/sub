@@ -8,15 +8,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdTBIM3ViSEZpYnVBd2ZZQ0hPVTJkRTRNLXNxZ2ZXUA@
 
 # ===== XS =====
 
-vless://d8e54ba4-9e77-44d0-b17d-6ab86cc1db08@rtims.vdioshop.com:4658?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇹🇷%20XS-TR-01
+vless://951a1c3f-9ddf-4187-ab87-0304ad462618@pirtyds.vdioshop.com:4658?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇫🇮%20XS
 
-vless://d8e54ba4-9e77-44d0-b17d-6ab86cc1db08@pirtyds.vdioshop.com:4658?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇫🇮%20XS-FI-01
+vless://951a1c3f-9ddf-4187-ab87-0304ad462618@scnxm.vdioshop.com:4658?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇩🇪%20XS
 
-vless://d8e54ba4-9e77-44d0-b17d-6ab86cc1db08@scnxm.vdioshop.com:4658?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇩🇪%20XS-DE-01
+vless://951a1c3f-9ddf-4187-ab87-0304ad462618@sdojap.vdioshop.com:4658?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇳🇱%20XS
 
-vless://d8e54ba4-9e77-44d0-b17d-6ab86cc1db08@sdojap.vdioshop.com:4658?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇳🇱%20XS-NL-01
+vless://951a1c3f-9ddf-4187-ab87-0304ad462618@rtims.vdioshop.com:4658?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇹🇷%20XS
 
-vless://d8e54ba4-9e77-44d0-b17d-6ab86cc1db08@fdsjkgb.vdioshop.com:4658?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇸🇪%20XS-SE-01
+vless://951a1c3f-9ddf-4187-ab87-0304ad462618@chjgfd.vdioshop.com:4658?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇸🇪%20XS
 
 # ===== BADBAN =====
 
