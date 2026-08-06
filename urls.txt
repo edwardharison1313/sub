@@ -56,16 +56,3 @@ vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?encryption=none&s
 vless://fec70375-29cf-46cf-b314-536c74feee94@104.26.14.85:8443?encryption=none&security=tls&sni=ratatouille.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php#🇫🇷 KH-FR-03
 
 vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@104.26.14.85:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=maple.adaspoloandco.com&path=%2Fuploader.php#🇨🇦 KH-CA-02
-
-
-# ===== XS =====
-
-vless://774a6461-f76c-4d72-9737-2b136d4d79e7@lkghfs.vdioshop.com:2018?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=YHpxdq3UWoSZyk_mw5hUWvSkWIN4A8bksnnxrfHrzBE&sid=b5516a2b1bdcb4f6&type=tcp&headerType=none#🇩🇪🆘%20XS-DE-02
-
-vless://774a6461-f76c-4d72-9737-2b136d4d79e7@plkjhgf.vdioshop.com:2018?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=YHpxdq3UWoSZyk_mw5hUWvSkWIN4A8bksnnxrfHrzBE&sid=b5516a2b1bdcb4f6&type=tcp&headerType=none#🇫🇷🆘%20XS-FR-02
-
-vless://774a6461-f76c-4d72-9737-2b136d4d79e7@alkjsd.vdioshop.com:2018?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=YHpxdq3UWoSZyk_mw5hUWvSkWIN4A8bksnnxrfHrzBE&sid=b5516a2b1bdcb4f6&type=tcp&headerType=none#🇳🇱🆘%20XS-NL-02
-
-vless://774a6461-f76c-4d72-9737-2b136d4d79e7@clkhgf.vdioshop.com:2018?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=YHpxdq3UWoSZyk_mw5hUWvSkWIN4A8bksnnxrfHrzBE&sid=b5516a2b1bdcb4f6&type=tcp&headerType=none#🇸🇪🆘%20XS-SE-02
-
-vless://774a6461-f76c-4d72-9737-2b136d4d79e7@tiugde.vdioshop.com:2018?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=YHpxdq3UWoSZyk_mw5hUWvSkWIN4A8bksnnxrfHrzBE&sid=b5516a2b1bdcb4f6&type=tcp&headerType=none#🇬🇧🆘%20XS-UK-02
