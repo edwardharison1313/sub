@@ -24,23 +24,11 @@ vless://7dee0318-a046-4d7c-a920-e8099e08457e@arosakshop.lampshop.org:443?encrypt
 
 vless://7dee0318-a046-4d7c-a920-e8099e08457e@mashinbazishop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇬🇧 BA-UK-01
 
-vless://7dee0318-a046-4d7c-a920-e8099e08457e@abnabatchoobi.online:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BA-FR-01
-
-vless://7dee0318-a046-4d7c-a920-e8099e08457e@arosakshopxyz.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BA-DE-02
-
-vless://7dee0318-a046-4d7c-a920-e8099e08457e@seaworkshop4.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqwedioqwnmdoemqw.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BA-FR-02
-
 vless://7dee0318-a046-4d7c-a920-e8099e08457e@mashinbaziwiki.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qiwendiqwn.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BA-DE-03
-
-vless://7dee0318-a046-4d7c-a920-e8099e08457e@plusgumshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BA-DE-04
-
-vless://7dee0318-a046-4d7c-a920-e8099e08457e@plusgumxyz2.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BA-DE-05
-
-vless://7dee0318-a046-4d7c-a920-e8099e08457e@seaworking2.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=iwqedoiqwnadfsqipowner.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇬🇧 BA-UK-02
 
 vless://7dee0318-a046-4d7c-a920-e8099e08457e@seaworkblog.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BA-FR-03
 
-vless://7dee0318-a046-4d7c-a920-e8099e08457e@2sj-3.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqwedioqwnmdoemqw.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BA-EC2
+vless://7dee0318-a046-4d7c-a920-e8099e08457e@plusgumshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BA-DE-04
 
 # ===== BPB =====
 
