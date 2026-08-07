@@ -9,25 +9,27 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdTBIM3ViSEZpYnVBd2ZZQ0hPVTJkRTRNLXNxZ2ZXUA@
 
 # ===== BADBAN =====
 
-vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@plusgumshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=afr-data-15.myket.ir&fp=chrome&insecure=0&allowInsecure=0&vcn=oqwedioqwnmdoemqw.soft88.online&pcs=c378a6b26d94147ede117ff565c745780fb02c4221476bc0e9b264b0a2cf94f9&type=xhttp&path=%2F&mode=auto#🇩🇪 BA-DE-33-SJSP6-NB
+vless://83cf419e-0752-46de-82ec-d8403ba91b71@arosakshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqiwnefdoqwiem.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BA-DE-01
 
-vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@mashinbazishop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=afr-data-15.myket.ir&fp=chrome&insecure=0&allowInsecure=0&vcn=oqwedioqwnmdoemqw.soft88.online&pcs=c378a6b26d94147ede117ff565c745780fb02c4221476bc0e9b264b0a2cf94f9&type=xhttp&path=%2F&mode=auto#🇬🇧 BA-UK-35-NB
+vless://83cf419e-0752-46de-82ec-d8403ba91b71@mashinbazishop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇬🇧 BA-UK-01
 
-vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@185.124.175.74:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=afr-data-15.myket.ir&fp=chrome&insecure=0&allowInsecure=0&vcn=oqwedioqwnmdoemqw.soft88.online&pcs=c378a6b26d94147ede117ff565c745780fb02c4221476bc0e9b264b0a2cf94f9&type=xhttp&path=%2F&mode=auto#🇫🇷 BA-FR-N21-NB
+vless://83cf419e-0752-46de-82ec-d8403ba91b71@abnabatchoobi.online:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BA-FR-01
 
-vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@185.124.175.90:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=afr-data-15.myket.ir&fp=chrome&insecure=0&allowInsecure=0&vcn=oqwedioqwnmdoemqw.soft88.online&pcs=c378a6b26d94147ede117ff565c745780fb02c4221476bc0e9b264b0a2cf94f9&type=xhttp&path=%2F&mode=auto#🇩🇪 BA-EC2-NB
+vless://83cf419e-0752-46de-82ec-d8403ba91b71@arosakshopxyz.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BA-DE-02
 
-vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@185.124.175.219:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=afr-data-15.myket.ir&fp=chrome&insecure=0&allowInsecure=0&vcn=oqwedioqwnmdoemqw.soft88.online&pcs=c378a6b26d94147ede117ff565c745780fb02c4221476bc0e9b264b0a2cf94f9&type=xhttp&path=%2F&mode=auto#🇬🇧 BA-EC3-NB
+vless://83cf419e-0752-46de-82ec-d8403ba91b71@seaworkshop4.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqwedioqwnmdoemqw.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BA-FR-02
 
-vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@plusgumxyz3.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=afr-data-15.myket.ir&fp=chrome&insecure=0&allowInsecure=0&vcn=oqwedioqwnmdoemqw.soft88.online&pcs=c378a6b26d94147ede117ff565c745780fb02c4221476bc0e9b264b0a2cf94f9&type=xhttp&path=%2F&mode=auto#🇩🇪 BA-DE-31-SJPX2-NB
+vless://83cf419e-0752-46de-82ec-d8403ba91b71@mashinbaziwiki.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qiwendiqwn.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BA-DE-03
 
-vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@arosakshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=afr-data-15.myket.ir&fp=chrome&insecure=0&allowInsecure=0&vcn=oqwedioqwnmdoemqw.soft88.online&pcs=c378a6b26d94147ede117ff565c745780fb02c4221476bc0e9b264b0a2cf94f9&type=xhttp&path=%2F&mode=auto#🇩🇪 BA-DE-33-NB
+vless://83cf419e-0752-46de-82ec-d8403ba91b71@plusgumshop.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BA-DE-04
 
-vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@abnabatchoobi.online:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqwedioqwnmdoemqw.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BA-FR-36
+vless://83cf419e-0752-46de-82ec-d8403ba91b71@plusgumxyz2.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=anoimqweodinqwod.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BA-DE-05
 
-vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@mashinbaziwiki.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=mmniondqwoed.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BA-DE-31
+vless://83cf419e-0752-46de-82ec-d8403ba91b71@seaworking2.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=iwqedoiqwnadfsqipowner.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇬🇧 BA-UK-02
 
-vless://3e1fcb5f-956b-4cdf-9381-074af212bcde@seaworkblog.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqwedioqwnmdoemqw.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BA-FR-5-3
+vless://83cf419e-0752-46de-82ec-d8403ba91b71@seaworkblog.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=qweionqowiednp.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇫🇷 BA-FR-03
+
+vless://83cf419e-0752-46de-82ec-d8403ba91b71@2sj-3.lampshop.org:443?encryption=mlkem768x25519plus.native.0rtt.pOrVl8pLLoNB1uzJb0c7MQXPBzB6aizwYa9BVJKbv1Y&security=tls&sni=oqwedioqwnmdoemqw.soft88.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 BA-EC2
 
 
 # ===== BPB =====
